@@ -13,6 +13,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Fratty R, Saar Y, Kumar R, et al. <b>Random Routing Algorithm for Enhancing the Cybersecurity of LEO Satellite Networks[J]</b>. Electronics, 2023, 12(3): 518. [Link](https://www.mdpi.com/2082280) [Code](https://github.com/RubenFr/icarus-framework)
 
 # 2022
+* Sibo Pan, Ruifeng Gao, Yingdong Hu, Ye Li. <b>TCP Performance in Satellite Backhauling for Maritime Communications: A ns-3 Study[C]</b>. 2022 IEEE the 14th International Conference on Wireless Communications and Signal Processing. [Link](https://ieeexplore.ieee.org/document/10039046/) [Code](https://github.com/yeliqseu/tcp-lte-sat)
 * Rodríguez-Pérez M, Herrería-Alonso S, Suárez-Gonzalez A, et al. <b>Cache Placement in an NDN Based LEO Satellite Network Constellation[J]</b>. IEEE Transactions on Aerospace and Electronic Systems, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9976193/) [Code](https://github.com/ICARUS-ICN/fastgridcache)
 * Sitouah N, Merazka F, Hedjazi A. <b>Deep learning approach for interruption attacks detection in LEO satellite networks[J]</b>. arXiv preprint arXiv:2301.03998, 2022. [Link](https://arxiv.org/abs/2301.03998) [Code](https://github.com/NacereddineSitouah/Interruption_LEO_SAT_master)
 * Marbel R, Yozevitch R, Grinshpoun T, et al. <b>Dynamic network formation for fso satellite communication[J]</b>. Applied Sciences, 2022, 12(2): 738. [Link](https://www.mdpi.com/1446148) [Code](https://github.com/RevitalMarbel/AC_for_dnbdst)
