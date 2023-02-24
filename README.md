@@ -9,6 +9,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Deadline for manuscript submissions: **31 August 2023**.
 
 # 2023
+* Pfandzelter T, Bermbach D. <b>Failure is not an Option: Considerations for Software Fault-Tolerance in LEO Satellite Edge Computing[J]</b>. arXiv preprint arXiv:2302.08952, 2023. [Link](https://arxiv.org/abs/2302.08952) [Code](https://github.com/pfandzelter/leo-edge-failure-models)
 * Oligeri G, Sciancalepore S, Di Pietro R. <b>Physical-Layer Data of IRIDIUM Satellites Broadcast Messages[J]</b>. Data in Brief, 2023: 108905. [Link](https://www.sciencedirect.com/science/article/pii/S2352340923000239) [Data](https://data.mendeley.com/datasets/xcxspv8c2r/2)
 * Fratty R, Saar Y, Kumar R, et al. <b>Random Routing Algorithm for Enhancing the Cybersecurity of LEO Satellite Networks[J]</b>. Electronics, 2023, 12(3): 518. [Link](https://www.mdpi.com/2082280) [Code](https://github.com/RubenFr/icarus-framework)
 
