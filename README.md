@@ -4,9 +4,13 @@ This is the repository for the collection of open source code and data for satel
 If you find this repository helpful, you may consider cite our relevant work:
 * Jiang W. <b>Software defined satellite networks: A survey[J]</b>. Digital Communications and Networks, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S2352864823000299)
 
-**Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Satellite Based IoT Networks for Emerging Applications" for Sensors (SCI-indexed, ISSN 1424-8220, Impact Factor: 3.576).
+**Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Satellite Based IoT Networks for Emerging Applications" for Sensors (SCI-indexed, ISSN 1424-8220, Impact Factor: 3.847).
 * Special issue website: [https://www.mdpi.com/journal/sensors/special_issues/Satellite_IOT](https://www.mdpi.com/journal/sensors/special_issues/Satellite_IOT)
 * Deadline for manuscript submissions: **31 August 2023**.
+
+**Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Sustainability of Large Satellite Constellations for 5G/B5G" for Sustainability (SSCI/SCI-indexed, ISSN 2071-1050, Impact Factor: 3.889).
+* Special issue website: [https://www.mdpi.com/journal/sustainability/special_issues/WVY4B7I6B8](https://www.mdpi.com/journal/sustainability/special_issues/WVY4B7I6B8)
+* Deadline for manuscript submissions: **3 October 2023**.
 
 # 2023
 * Pfandzelter T, Bermbach D. <b>Failure is not an Option: Considerations for Software Fault-Tolerance in LEO Satellite Edge Computing[J]</b>. arXiv preprint arXiv:2302.08952, 2023. [Link](https://arxiv.org/abs/2302.08952) [Code](https://github.com/pfandzelter/leo-edge-failure-models)
