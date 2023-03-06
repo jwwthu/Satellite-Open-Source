@@ -18,6 +18,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Fratty R, Saar Y, Kumar R, et al. <b>Random Routing Algorithm for Enhancing the Cybersecurity of LEO Satellite Networks[J]</b>. Electronics, 2023, 12(3): 518. [Link](https://www.mdpi.com/2082280) [Code](https://github.com/RubenFr/icarus-framework)
 
 # 2022
+* Li Y, Li H, Liu W, et al. <b>A case for stateless mobile core network functions in space[C]</b>//Proceedings of the ACM SIGCOMM 2022 Conference. 2022: 298-313. [Link](https://dl.acm.org/doi/abs/10.1145/3544216.3544233) [Code and Data](https://github.com/yuanjieli/SpaceCore-SIGCOMM22)
 * Li K X, You L, Wang J, et al. <b>Downlink transmit design for massive MIMO LEO satellite communications[J]</b>. IEEE Transactions on Communications, 2022, 70(2): 1014-1028. [Link](https://ieeexplore.ieee.org/abstract/document/9628071) [Data](https://github.com/likexin1415/Dataset_LEO_DL_transmit_design)
 * Zou M, Chen J, Luo J, et al. <b>Equilibrium Approximating and Online Learning for Anti-Jamming Game of Satellite Communication Power Allocation[J]</b>. Electronics, 2022, 11(21): 3526. [Link](https://www.mdpi.com/1915408) [Code](https://github.com/mw-zou/power-allocation)
 * Sibo Pan, Ruifeng Gao, Yingdong Hu, Ye Li. <b>TCP Performance in Satellite Backhauling for Maritime Communications: A ns-3 Study[C]</b>. 2022 IEEE the 14th International Conference on Wireless Communications and Signal Processing. [Link](https://ieeexplore.ieee.org/document/10039046/) [Code](https://github.com/yeliqseu/tcp-lte-sat)
