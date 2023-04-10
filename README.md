@@ -14,6 +14,9 @@ If you find this repository helpful, you may consider cite our relevant work:
 
 **Advertisement**: 欢迎大家关注我的微信公众号或知乎账号，都叫“网络与通信”，会定期推送网络与通信领域会议截止日期汇总、开源代码论文汇总等推文。
 
+# Gridded Population of the World (GPW), v4
+Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density/data-download)
+
 # 2023
 * Papanikolaou T L. <b>GEORB: Release for precise orbit determination of low Earth orbiters and satellite gravity missions[J]</b>. Software Impacts, 2023: 100502. [Link](https://www.sciencedirect.com/science/article/pii/S2665963823000398) [Code](https://github.com/Thomas-Loudis/georb)
 * Gracla S, Schröder A, Röper M, et al. <b>Learning Model-free Robust Precoding for Cooperative Multibeam Satellite Communications[C]</b>. Signal and Data Processing for Next Generation Satellites Workshop 2023. [Link](https://arxiv.org/abs/2303.11427v1) [Code](https://github.com/Steffengra/2302_learning_beamforming_code)
