@@ -18,6 +18,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density/data-download)
 
 # 2023
+* Lai Z, Li H, Zhang Q, et al. <b>STARFRONT: Cooperatively Constructing Pervasive and Low-Latency CDNs Upon Emerging LEO Satellites and Clouds[J]</b>. IEEE/ACM Transactions on Networking, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10103663) [Code](https://github.com/SpaceNetLab/StarFront)
 * Papanikolaou T L. <b>GEORB: Release for precise orbit determination of low Earth orbiters and satellite gravity missions[J]</b>. Software Impacts, 2023: 100502. [Link](https://www.sciencedirect.com/science/article/pii/S2665963823000398) [Code](https://github.com/Thomas-Loudis/georb)
 * Gracla S, Schröder A, Röper M, et al. <b>Learning Model-free Robust Precoding for Cooperative Multibeam Satellite Communications[C]</b>. Signal and Data Processing for Next Generation Satellites Workshop 2023. [Link](https://arxiv.org/abs/2303.11427v1) [Code](https://github.com/Steffengra/2302_learning_beamforming_code)
 * Pfandzelter T, Bermbach D. <b>Failure is not an Option: Considerations for Software Fault-Tolerance in LEO Satellite Edge Computing[J]</b>. arXiv preprint arXiv:2302.08952, 2023. [Link](https://arxiv.org/abs/2302.08952) [Code](https://github.com/pfandzelter/leo-edge-failure-models)
