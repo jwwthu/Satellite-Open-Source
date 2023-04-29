@@ -18,6 +18,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density/data-download)
 
 # 2023
+* Lai Z, Li H, Deng Y, et al. <b>StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks[C]</b>//20th USENIX Symposium on Networked Systems Design and Implementation (NSDI 23). 2023: 1309-1324. [Link](https://www.usenix.org/conference/nsdi23/presentation/lai-zeqi) [Code](https://github.com/SpaceNetLab/StarryNet)
 * Chang G Y, Hung C K, Chen C H. <b>A CSI Prediction Scheme for Satellite-Terrestrial Networks[J]</b>. IEEE Internet of Things Journal, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9990587/) [Data](https://drive.google.com/file/d/1gL-Thv3eYxZlU_IquCRGdwJARaoBEZd2/view)
 * Lai Z, Li H, Zhang Q, et al. <b>STARFRONT: Cooperatively Constructing Pervasive and Low-Latency CDNs Upon Emerging LEO Satellites and Clouds[J]</b>. IEEE/ACM Transactions on Networking, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10103663) [Code](https://github.com/SpaceNetLab/StarFront)
 * Papanikolaou T L. <b>GEORB: Release for precise orbit determination of low Earth orbiters and satellite gravity missions[J]</b>. Software Impacts, 2023: 100502. [Link](https://www.sciencedirect.com/science/article/pii/S2665963823000398) [Code](https://github.com/Thomas-Loudis/georb)
