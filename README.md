@@ -18,6 +18,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density/data-download)
 
 # 2023
+* Salkield E, Szakály M, Smailes J, et al. <b>Satellite Spoofing from A to Z: On the Requirements of Satellite Downlink Overshadowing Attacks[C]</b>//Proceedings of the 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks. 2023: 341-352. [Link](https://dl.acm.org/doi/abs/10.1145/3558482.3590190) [Code](https://github.com/ssloxford/satellite-spoofing-a-z/)
 * Kinman G, Žilić Ž, Purnell D. <b>Scheduling Sparse LEO Satellite Transmissions for Remote Water Level Monitoring[J]</b>. Sensors, 2023, 23(12): 5581. [Link](https://www.mdpi.com/1424-8220/23/12/5581) [Code](https://github.com/garrettkinman/Self-Learning-Satellite-Pass-Selection)
 * Sandri M, Pagin M, Giordani M, et al. <b>Implementation of a Channel Model for Non-Terrestrial Networks in ns-3[C]</b>. 2023 Workshop on ns-3 (WNS3). [Link](https://arxiv.org/abs/2305.05544) [Code](https://gitlab.com/mattiasandri/ns-3-ntn/-/tree/ntn-dev)
 * G. Labrèche and C. G. Alvarez. <b>SaaSyML: Software as a Service for Machine Learning On-board the OPS-SAT Spacecraft</b>. 2023 IEEE Aerospace Conference, Big Sky, MT, USA, 2023. [Link](https://ieeexplore.ieee.org/document/10115531) [Code](https://github.com/visionspacetec/opssat-saasy-ml)
