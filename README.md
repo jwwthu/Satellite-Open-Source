@@ -29,6 +29,9 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * Gracla S, Schröder A, Röper M, et al. <b>Learning Model-free Robust Precoding for Cooperative Multibeam Satellite Communications[C]</b>. Signal and Data Processing for Next Generation Satellites Workshop 2023. [Link](https://arxiv.org/abs/2303.11427v1) [Code](https://github.com/Steffengra/2302_learning_beamforming_code)
 * Pfandzelter T, Bermbach D. <b>Failure is not an Option: Considerations for Software Fault-Tolerance in LEO Satellite Edge Computing[J]</b>. arXiv preprint arXiv:2302.08952, 2023. [Link](https://arxiv.org/abs/2302.08952) [Code](https://github.com/pfandzelter/leo-edge-failure-models)
 * Oligeri G, Sciancalepore S, Di Pietro R. <b>Physical-Layer Data of IRIDIUM Satellites Broadcast Messages[J]</b>. Data in Brief, 2023: 108905. [Link](https://www.sciencedirect.com/science/article/pii/S2352340923000239) [Data](https://data.mendeley.com/datasets/xcxspv8c2r/2)
+  + PAST-AI: Physical-Layer Authentication of Satellite Transmitters via Deep Learning [Paper Link](https://ieeexplore.ieee.org/document/9936663)
+  + Iridium burst detector and demodulator [Github Link](https://github.com/muccc/gr-iridium)
+  + A set of tools to parse Iridium frames [Github Link](https://github.com/muccc/iridium-toolkit)
 * Fratty R, Saar Y, Kumar R, et al. <b>Random Routing Algorithm for Enhancing the Cybersecurity of LEO Satellite Networks[J]</b>. Electronics, 2023, 12(3): 518. [Link](https://www.mdpi.com/2082280) [Code](https://github.com/RubenFr/icarus-framework)
 
 # 2022
