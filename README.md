@@ -18,6 +18,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density/data-download)
 
 # 2023
+* Li Y, Li H, et al. <b>A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation[C]</b>//ACM Mobicom 2023. [Link](https://doi.org/10.1145/3570361.3592519) [Data and Code](https://github.com/self-driving-satellite-network/starlink-autonomous-driving)
 * Sandri M, Pagin M, Giordani M, et al. <b>Implementation of a Channel Model for Non-Terrestrial Networks in ns-3[C]</b>//Proceedings of the 2023 Workshop on ns-3. 2023: 28-34. [Link](https://dl.acm.org/doi/abs/10.1145/3592149.3592158) [Code](https://gitlab.com/mattiasandri/ns-3-ntn/-/tree/ntn-dev)
 * Salkield E, Szakály M, Smailes J, et al. <b>Satellite Spoofing from A to Z: On the Requirements of Satellite Downlink Overshadowing Attacks[C]</b>//Proceedings of the 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks. 2023: 341-352. [Link](https://dl.acm.org/doi/abs/10.1145/3558482.3590190) [Code](https://github.com/ssloxford/satellite-spoofing-a-z/)
 * Kinman G, Žilić Ž, Purnell D. <b>Scheduling Sparse LEO Satellite Transmissions for Remote Water Level Monitoring[J]</b>. Sensors, 2023, 23(12): 5581. [Link](https://www.mdpi.com/1424-8220/23/12/5581) [Code](https://github.com/garrettkinman/Self-Learning-Satellite-Pass-Selection)
