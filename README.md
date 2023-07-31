@@ -21,6 +21,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * Celestial: [Link](https://openfogstack.github.io/celestial/)
 
 # 2023
+* Xu X, Gao Z, Liu A. <b>Robustness of Satellite Constellation Networks[J]</b>. Computer Communications, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S0140366423002694) [Code](https://github.com/sat-robustness-simu/nssatroute)
 * Xu X, Cai J, Liu A, et al. <b>Local-state routing in satellite constellation networks from the perspective of complex network[J]</b>. China Communications, 2023, 20(7): 72-88. [Link](https://ieeexplore.ieee.org/abstract/document/10194908/) [Code](https://github.com/sat-simu/nssatroute)
 * Deutschmann J, Hielscher K, and German R. <b>CUBIC Local Loss Recovery vs. BBR on (Satellite) Internet Paths</b>. 2023 IEEE 29th International Symposium on Local and Metropolitan Area Networks (LANMAN). [Link](https://ieeexplore.ieee.org/document/10189417/) [Code](https://github.com/cs7org/lanman2023)
 * Li Y, Li H, et al. <b>A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation[C]</b>//ACM Mobicom 2023. [Link](https://doi.org/10.1145/3570361.3592519) [Data and Code](https://github.com/self-driving-satellite-network/starlink-autonomous-driving)
