@@ -21,6 +21,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * Celestial: [Link](https://openfogstack.github.io/celestial/)
 
 # 2023
+* Finzi, A, Perrier, V, Francès, F, Lochin, E. <b>Priority switching scheduler</b>. Int J Satell Commun Network. 2023; 1-17. [Link](https://onlinelibrary.wiley.com/doi/10.1002/sat.1491) [Code](https://github.com/elochin/priority-switching-scheduler)
 * Xu X, Gao Z, Liu A. <b>Robustness of Satellite Constellation Networks[J]</b>. Computer Communications, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S0140366423002694) [Code](https://github.com/sat-robustness-simu/nssatroute)
 * Xu X, Cai J, Liu A, et al. <b>Local-state routing in satellite constellation networks from the perspective of complex network[J]</b>. China Communications, 2023, 20(7): 72-88. [Link](https://ieeexplore.ieee.org/abstract/document/10194908/) [Code](https://github.com/sat-simu/nssatroute)
 * Deutschmann J, Hielscher K, and German R. <b>CUBIC Local Loss Recovery vs. BBR on (Satellite) Internet Paths</b>. 2023 IEEE 29th International Symposium on Local and Metropolitan Area Networks (LANMAN). [Link](https://ieeexplore.ieee.org/document/10189417/) [Code](https://github.com/cs7org/lanman2023)
