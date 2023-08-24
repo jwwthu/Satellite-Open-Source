@@ -19,6 +19,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 
 ### Software
 * Celestial: [Link](https://openfogstack.github.io/celestial/)
+* FLoRaSat：[Link](https://gitlab.inria.fr/jfraire/florasat)
 
 # 2023
 * Petrou M, Pradas D, Royer M, et al. <b>Forecasting YouTube QoE over SATCOM[C]</b>//The IEEE 97th Vehicular Technology Conference. 2023 Spring. [Link](https://ieeexplore.ieee.org/document/10200133) [Data](https://github.com/viveris/satcom-qoe-dataset)
