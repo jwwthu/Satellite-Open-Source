@@ -22,6 +22,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * FLoRaSat：[Link](https://gitlab.inria.fr/jfraire/florasat)
 
 # 2023
+* Cao X, Zhang X. <b>SaTCP: Link-Layer Informed TCP Adaptation for Highly Dynamic LEO Satellite Networks[C]</b>//IEEE INFOCOM 2023-IEEE Conference on Computer Communications. IEEE, 2023: 1-10. [Link](https://ieeexplore.ieee.org/abstract/document/10228914/) [Code](https://github.com/XuyangCaoUCSD/LeoEM)
 * Petrou M, Pradas D, Royer M, et al. <b>Forecasting YouTube QoE over SATCOM[C]</b>//The IEEE 97th Vehicular Technology Conference. 2023 Spring. [Link](https://ieeexplore.ieee.org/document/10200133) [Data](https://github.com/viveris/satcom-qoe-dataset)
 * Rodríguez-Pérez M, Herrería-Alonso S, Suárez-Gonzalez A, et al. <b>Cache Placement in an NDN Based LEO Satellite Network Constellation[J]</b>. IEEE Transactions on Aerospace and Electronic Systems, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9976193/) [Code](https://github.com/ICARUS-ICN/fastgridcache) and [Code](https://github.com/ICARUS-ICN/ndn-grid-cache)
 * Finzi, A, Perrier, V, Francès, F, Lochin, E. <b>Priority switching scheduler</b>. Int J Satell Commun Network. 2023; 1-17. [Link](https://onlinelibrary.wiley.com/doi/10.1002/sat.1491) [Code](https://github.com/elochin/priority-switching-scheduler)
