@@ -22,6 +22,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * FLoRaSat：[Link](https://gitlab.inria.fr/jfraire/florasat)
 
 # 2023
+* Yu J, Pan S, Gao R, et al. <b>Low-Delay Transmission for Non-Terrestrial Networks Based on FEC and Reinforcement Learning[C]</b>//2023 IEEE/CIC International Conference on Communications in China (ICCC). IEEE, 2023: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10233410/) [Code](https://github.com/JianHaoYu/RL-quic-go)
 * Valentine A, Parisis G. <b>Data Transport for the Orbiting Internet[C]</b>//IEEE INFOCOM 2023-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS). IEEE, 2023: 1-2. [Link](https://ieeexplore.ieee.org/abstract/document/10226070/) [Code](https://github.com/Avian688/orbtcp)
 * Cao X, Zhang X. <b>SaTCP: Link-Layer Informed TCP Adaptation for Highly Dynamic LEO Satellite Networks[C]</b>//IEEE INFOCOM 2023-IEEE Conference on Computer Communications. IEEE, 2023: 1-10. [Link](https://ieeexplore.ieee.org/abstract/document/10228914/) [Code](https://github.com/XuyangCaoUCSD/LeoEM)
 * Petrou M, Pradas D, Royer M, et al. <b>Forecasting YouTube QoE over SATCOM[C]</b>//The IEEE 97th Vehicular Technology Conference. 2023 Spring. [Link](https://ieeexplore.ieee.org/document/10200133) [Data](https://github.com/viveris/satcom-qoe-dataset)
