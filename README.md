@@ -5,10 +5,6 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Jiang W. <b>Software defined satellite networks: A survey[J]</b>. Digital Communications and Networks, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S2352864823000299)
 * Jiang W, et al. <b>Network Simulators for Satellite-Terrestrial Integrated Networks: A Survey</b>. IEEE Access, 2023. [Link](https://ieeexplore.ieee.org/document/10244011)
 
-**Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Satellite Based IoT Networks for Emerging Applications" for Sensors (SCI-indexed, ISSN 1424-8220, Impact Factor: 3.847).
-* Special issue website: [https://www.mdpi.com/journal/sensors/special_issues/Satellite_IOT](https://www.mdpi.com/journal/sensors/special_issues/Satellite_IOT)
-* Deadline for manuscript submissions: **31 August 2023**.
-
 **Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Sustainability of Large Satellite Constellations for 5G/B5G" for Sustainability (SSCI/SCI-indexed, ISSN 2071-1050, Impact Factor: 3.889).
 * Special issue website: [https://www.mdpi.com/journal/sustainability/special_issues/WVY4B7I6B8](https://www.mdpi.com/journal/sustainability/special_issues/WVY4B7I6B8)
 * Deadline for manuscript submissions: **3 October 2023**.
@@ -23,6 +19,8 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * FLoRaSat：[Link](https://gitlab.inria.fr/jfraire/florasat)
 
 # 2023
+* Li Y, Chen L, Su L, et al. <b>PEPesc: A TCP Performance Enhancing Proxy for Non-Terrestrial Networks[J]</b>. IEEE Transactions on Mobile Computing, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10107444/) [Code](https://github.com/yeliqseu/pepesc)
+* Li Y, Chen X, Hu Y, et al. <b>Low-Complexity Streaming Forward Erasure Correction for Non-Terrestrial Networks[J]</b>. IEEE Transactions on Communications, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10246292/) [Code](https://github.com/yeliqseu/streamc/)
 * Khan F, Hervella C, Diez L, et al. <b>Realistic assessment of transport protocols performance over LEO-based communications[J]</b>. Computer Networks, 2023: 110008. [Link](https://www.sciencedirect.com/science/article/pii/S138912862300453X) [Code](https://github.com/jwwthu/Satellite-Open-Source)
 * Ta D, Menon R, Taggart J, et al. <b>Roaming DTN: Integrating Unscheduled Nodes into Contact Plan Based DTN Networks[C]</b>//2023 IEEE Cognitive Communications for Aerospace Applications Workshop (CCAAW). IEEE, 2023: 1-9. [Link](https://ieeexplore.ieee.org/abstract/document/10219232/) [Code](https://github.com/rmenon1008/dtn_simulator/releases/tag/ccaw2023_manuscript_submission)
 * Yu J, Pan S, Gao R, et al. <b>Low-Delay Transmission for Non-Terrestrial Networks Based on FEC and Reinforcement Learning[C]</b>//2023 IEEE/CIC International Conference on Communications in China (ICCC). IEEE, 2023: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10233410/) [Code](https://github.com/JianHaoYu/RL-quic-go)
