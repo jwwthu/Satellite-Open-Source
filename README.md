@@ -20,6 +20,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * FLoRaSat：[Link](https://gitlab.inria.fr/jfraire/florasat)
 
 # 2023
+* Pfandzelter T, Bermbach D. Can Orbital Servers Provide Mars-Wide Edge Computing?[C]. 1st ACM MobiCom Workshop on Satellite Networking and Computing (SatCom ’23). [Link](https://dl.acm.org/doi/10.1145/3614454.3622997) [Code](https://github.com/pfandzelter/mars-orbit-simulator)
 * Pfandzelter T, Bermbach D. <b>Edge Computing in Low-Earth Orbit--What Could Possibly Go Wrong?[C]</b>//Proceedings of the 1st ACM Workshop on LEO Networking and Communication. 2023: 19-24. [Link](https://dl.acm.org/doi/abs/10.1145/3614204.3616106) [Code](https://github.com/pfandzelter/leo-edge-failure-models)
 * Jiang L, Zhang Y, et al. <b>LEOTP: An Information-centric Transport Layer Protocol for LEO Satellite Networks[C]</b>. 2023 IEEE 43rd International Conference on Distributed Computing Systems (ICDCS). [Link](https://ieeexplore.ieee.org/document/10272521/) [Code](https://jl99888.github.io/LEOTP)
 * Zhang K, Tang L, Zhong S, et al. <b>Perfect Hash-Based Routing Lookup for LEO Constellation Backbone Network[J]</b>. IEEE Transactions on Aerospace and Electronic Systems, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10058839/) [Code](https://github.com/zkr1990/RoutingLookup)
