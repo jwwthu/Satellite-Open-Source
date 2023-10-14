@@ -20,6 +20,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * FLoRaSat：[Link](https://gitlab.inria.fr/jfraire/florasat)
 
 # 2023
+* Jiang L, Zhang Y, et al. <b>LEOTP: An Information-centric Transport Layer Protocol for LEO Satellite Networks[C]</b>. 2023 IEEE 43rd International Conference on Distributed Computing Systems (ICDCS). [Link](https://ieeexplore.ieee.org/document/10272521/) [Code](https://jl99888.github.io/LEOTP)
 * Zhang K, Tang L, Zhong S, et al. <b>Perfect Hash-Based Routing Lookup for LEO Constellation Backbone Network[J]</b>. IEEE Transactions on Aerospace and Electronic Systems, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10058839/) [Code](https://github.com/zkr1990/RoutingLookup)
 * Izhikevich L, Tran M, Izhikevich K, et al. <b>Democratizing LEO Satellite Network Measurement[J]</b>. arXiv preprint arXiv:2306.07469, 2023. [Link](https://arxiv.org/abs/2306.07469) [Code](https://github.com/stanford-esrg/LEO_HitchHiking)
 * Li Y, Chen L, Su L, et al. <b>PEPesc: A TCP Performance Enhancing Proxy for Non-Terrestrial Networks[J]</b>. IEEE Transactions on Mobile Computing, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10107444/) [Code](https://github.com/yeliqseu/pepesc)
