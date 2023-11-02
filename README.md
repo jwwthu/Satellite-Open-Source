@@ -5,6 +5,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Jiang W. <b>Software defined satellite networks: A survey[J]</b>. Digital Communications and Networks, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S2352864823000299)
 * Jiang W, et al. <b>Network Simulators for Satellite-Terrestrial Integrated Networks: A Survey</b>. IEEE Access, 2023. [Link](https://ieeexplore.ieee.org/document/10244011)
 * Jiang W, et al. <b>Multi-Domain Network Slicing in Satellite–Terrestrial Integrated Networks: A Multi-Sided Ascending-Price Auction Approach</b>. Aerospace 2023, 10(10), 830. [Link](https://www.mdpi.com/2226-4310/10/10/830)
+* Liu J, Jiang W, Han H, et al. <b>Satellite Internet of Things for Smart Agriculture Applications: A Case Study of Computer Vision[C]</b>//2023 20th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON). IEEE, 2023: 66-71. [Link](https://ieeexplore.ieee.org/abstract/document/10287508/)
 
 **Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Sustainability of Large Satellite Constellations for 5G/B5G" for Sustainability (SSCI/SCI-indexed, ISSN 2071-1050, Impact Factor: 3.889).
 * Special issue website: [https://www.mdpi.com/journal/sustainability/special_issues/WVY4B7I6B8](https://www.mdpi.com/journal/sustainability/special_issues/WVY4B7I6B8)
