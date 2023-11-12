@@ -2,6 +2,7 @@
 This is the repository for the collection of open source code and data for satellite communication.
 
 If you find this repository helpful, you may consider cite our relevant work:
+* Jiang W, et al. <b>Federated split learning for sequential data in satellite-terrestrial integrated networks[J]</b>. Information Fusion, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S1566253523004578)
 * Jiang W. <b>Software defined satellite networks: A survey[J]</b>. Digital Communications and Networks, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S2352864823000299)
 * Jiang W, et al. <b>Network Simulators for Satellite-Terrestrial Integrated Networks: A Survey</b>. IEEE Access, 2023. [Link](https://ieeexplore.ieee.org/document/10244011)
 * Jiang W, et al. <b>Multi-Domain Network Slicing in Satellite–Terrestrial Integrated Networks: A Multi-Sided Ascending-Price Auction Approach</b>. Aerospace 2023, 10(10), 830. [Link](https://www.mdpi.com/2226-4310/10/10/830)
