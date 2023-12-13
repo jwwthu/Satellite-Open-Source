@@ -22,6 +22,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * FLoRaSat：[Link](https://gitlab.inria.fr/jfraire/florasat)
 
 # 2023
+* Diego Tuzi, Estephania Flores Aguilar, Thomas Delamotte, Gunes Karabulut-Kurt, Andreas Knopp. <b>Distributed Approach to Satellite Direct-to-Cell Connectivity in 6G Non-Terrestrial Networks</b>. IEEE Wireless Communications, 2023. [Link](https://ieeexplore.ieee.org/document/10355084) [Code](https://github.com/diegotuzi/Distributed-Approach-to-Satellite-Direct-to-Cell-Connectivity-in-6G-Non-Terrestrial-Networks)
 * Molina F, et al. <b>Cubedate: Securing Software Updates in Orbit for Low-Power Payloads Hosted on CubeSats</b>. 2023 12th IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN). [Link](https://ieeexplore.ieee.org/document/10304910/) [Code](https://github.com/thingsat/Cubedate)
 * Pfandzelter T, Bermbach D. <b>Can Orbital Servers Provide Mars-Wide Edge Computing?[C]</b>. 1st ACM MobiCom Workshop on Satellite Networking and Computing (SatCom ’23). [Link](https://dl.acm.org/doi/10.1145/3614454.3622997) [Code](https://github.com/pfandzelter/mars-orbit-simulator)
 * Pfandzelter T, Bermbach D. <b>Edge Computing in Low-Earth Orbit--What Could Possibly Go Wrong?[C]</b>//Proceedings of the 1st ACM Workshop on LEO Networking and Communication. 2023: 19-24. [Link](https://dl.acm.org/doi/abs/10.1145/3614204.3616106) [Code](https://github.com/pfandzelter/leo-edge-failure-models)
