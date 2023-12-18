@@ -22,6 +22,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * FLoRaSat：[Link](https://gitlab.inria.fr/jfraire/florasat)
 
 # 2023
+* Parvizi P, Zou R, Bellinger C, et al. <b>Reinforcement Learning Environment for Wavefront Sensorless Adaptive Optics in Single-Mode Fiber Coupled Optical Satellite Communications Downlinks[C]</b>//Photonics. MDPI, 2023, 10(12): 1371. [Link](https://www.mdpi.com/2304-6732/10/12/1371) [Code](https://github.com/payamparvizi/adaptive_optics_gym)
 * Diego Tuzi, Estephania Flores Aguilar, Thomas Delamotte, Gunes Karabulut-Kurt, Andreas Knopp. <b>Distributed Approach to Satellite Direct-to-Cell Connectivity in 6G Non-Terrestrial Networks</b>. IEEE Wireless Communications, 2023. [Link](https://ieeexplore.ieee.org/document/10355084) [Code](https://github.com/diegotuzi/Distributed-Approach-to-Satellite-Direct-to-Cell-Connectivity-in-6G-Non-Terrestrial-Networks)
 * Molina F, et al. <b>Cubedate: Securing Software Updates in Orbit for Low-Power Payloads Hosted on CubeSats</b>. 2023 12th IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN). [Link](https://ieeexplore.ieee.org/document/10304910/) [Code](https://github.com/thingsat/Cubedate)
 * Pfandzelter T, Bermbach D. <b>Can Orbital Servers Provide Mars-Wide Edge Computing?[C]</b>. 1st ACM MobiCom Workshop on Satellite Networking and Computing (SatCom ’23). [Link](https://dl.acm.org/doi/10.1145/3614454.3622997) [Code](https://github.com/pfandzelter/mars-orbit-simulator)
