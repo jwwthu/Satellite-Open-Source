@@ -21,6 +21,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * Celestial: [Link](https://openfogstack.github.io/celestial/)
 * FLoRaSat：[Link](https://gitlab.inria.fr/jfraire/florasat)
 * https://github.com/infonetlijian/Large-Scale-Satellite-Network-Simulator-LSNS
+* https://github.com/may5hap/SatSIM 基于图神经网络的低轨卫星网络动态路由算法研究_汪昊
 
 # 2023
 * Parvizi P, Zou R, Bellinger C, et al. <b>Reinforcement Learning Environment for Wavefront Sensorless Adaptive Optics in Single-Mode Fiber Coupled Optical Satellite Communications Downlinks[C]</b>//Photonics. MDPI, 2023, 10(12): 1371. [Link](https://www.mdpi.com/2304-6732/10/12/1371) [Code](https://github.com/payamparvizi/adaptive_optics_gym)
