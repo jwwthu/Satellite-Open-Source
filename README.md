@@ -21,7 +21,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * ITU-Rpy: [Link](https://itu-rpy.readthedocs.io/en/latest/index.html) [Github Link](https://github.com/inigodelportillo/ITU-Rpy/)
 
 # 2024
-* Liu Y, Wang L, Lu Z, et al. A Stateless Design of Satellite-Terrestrial Integrated Core Network and its Deployment Strategy[J]. IEEE Transactions on Network and Service Management, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10261425/) [Code](https://github.com/LiuYu97/A-Stateless-Design-of-Satellite-Terrestrial-Integrated-Core-Network-and-its-Deployment-Strategy.git)
+* Liu Y, Wang L, Lu Z, et al. <b>A Stateless Design of Satellite-Terrestrial Integrated Core Network and its Deployment Strategy[J]</b>. IEEE Transactions on Network and Service Management, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10261425/) [Code](https://github.com/LiuYu97/A-Stateless-Design-of-Satellite-Terrestrial-Integrated-Core-Network-and-its-Deployment-Strategy.git)
 
 # 2023
 * Parvizi P, Zou R, Bellinger C, et al. <b>Reinforcement Learning Environment for Wavefront Sensorless Adaptive Optics in Single-Mode Fiber Coupled Optical Satellite Communications Downlinks[C]</b>//Photonics. MDPI, 2023, 10(12): 1371. [Link](https://www.mdpi.com/2304-6732/10/12/1371) [Code](https://github.com/payamparvizi/adaptive_optics_gym)
