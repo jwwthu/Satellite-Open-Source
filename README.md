@@ -20,6 +20,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * https://github.com/infonetlijian/Large-Scale-Satellite-Network-Simulator-LSNS
 * https://github.com/may5hap/SatSIM 基于图神经网络的低轨卫星网络动态路由算法研究_汪昊
 * ITU-Rpy: [Link](https://itu-rpy.readthedocs.io/en/latest/index.html) [Github Link](https://github.com/inigodelportillo/ITU-Rpy/)
+* [https://starlink.memgraph.com/](https://starlink.memgraph.com/) [https://github.com/memgraph/starlink](https://github.com/memgraph/starlink)
 
 # 2024
 * Liu Y, Wang L, Lu Z, et al. <b>A Stateless Design of Satellite-Terrestrial Integrated Core Network and its Deployment Strategy[J]</b>. IEEE Transactions on Network and Service Management, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10261425/) [Code](https://github.com/LiuYu97/A-Stateless-Design-of-Satellite-Terrestrial-Integrated-Core-Network-and-its-Deployment-Strategy.git)
