@@ -22,6 +22,9 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * ITU-Rpy: [Link](https://itu-rpy.readthedocs.io/en/latest/index.html) [Github Link](https://github.com/inigodelportillo/ITU-Rpy/)
 * [https://starlink.memgraph.com/](https://starlink.memgraph.com/) [https://github.com/memgraph/starlink](https://github.com/memgraph/starlink)
 
+### Course
+* [卫星通信载荷波束形成与抗干扰虚拟仿真实验](https://mool.njust.edu.cn/exp/224.html)
+
 # 2024
 * Liu Y, Wang L, Lu Z, et al. <b>A Stateless Design of Satellite-Terrestrial Integrated Core Network and its Deployment Strategy[J]</b>. IEEE Transactions on Network and Service Management, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10261425/) [Code](https://github.com/LiuYu97/A-Stateless-Design-of-Satellite-Terrestrial-Integrated-Core-Network-and-its-Deployment-Strategy.git)
 
