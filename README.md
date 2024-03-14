@@ -23,6 +23,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + This is a module for the ndnSIM simulator for deploying massive LEO satellite constellations using NDN as the communication backend.
 * OpenSAND: [Link](https://github.com/cnes/opensand)
     + OpenSAND is an user-friendly and efficient tool to emulate satellite communication systems, mainly DVB-RCS - DVB-S2.
+* CosmicBeats-Simulator: [Link](https://github.com/microsoft/CosmicBeats-Simulator)
 * https://github.com/infonetlijian/Large-Scale-Satellite-Network-Simulator-LSNS
 * https://github.com/may5hap/SatSIM 基于图神经网络的低轨卫星网络动态路由算法研究_汪昊
 * ITU-Rpy: [Link](https://itu-rpy.readthedocs.io/en/latest/index.html) [Github Link](https://github.com/inigodelportillo/ITU-Rpy/)
