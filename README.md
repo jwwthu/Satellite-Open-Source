@@ -17,6 +17,8 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 ### Software
 * Celestial: [Link](https://openfogstack.github.io/celestial/)
 * FLoRaSat：[Link](https://gitlab.inria.fr/jfraire/florasat)
+* skyfield: [Link](https://pypi.org/project/skyfield/)
+    + Skyfield is a pure-Python astronomy package that is compatible with both Python 2 and 3 and makes it easy to generate high precision research-grade positions for planets and Earth satellites.
 * https://github.com/infonetlijian/Large-Scale-Satellite-Network-Simulator-LSNS
 * https://github.com/may5hap/SatSIM 基于图神经网络的低轨卫星网络动态路由算法研究_汪昊
 * ITU-Rpy: [Link](https://itu-rpy.readthedocs.io/en/latest/index.html) [Github Link](https://github.com/inigodelportillo/ITU-Rpy/)
