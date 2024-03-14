@@ -79,6 +79,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * Fratty R, Saar Y, Kumar R, et al. <b>Random Routing Algorithm for Enhancing the Cybersecurity of LEO Satellite Networks[J]</b>. Electronics, 2023, 12(3): 518. [Link](https://www.mdpi.com/2082280) [Code](https://github.com/RubenFr/icarus-framework)
 
 # 2022
+* Kon P T J, Barradas D, Chen A. <b>Stargaze: a Leo constellation emulator for security experimentation[C]</b>//Proceedings of the 4th Workshop on CPS & IoT Security and Privacy. 2022: 47-53. [Link](https://dl.acm.org/doi/abs/10.1145/3560826.3563382) [Code](https://github.com/patrickkon/Stargaze)
 * Afhamisis M, Palattella M R. <b>SALSA: A scheduling algorithm for LoRa to LEO satellites[J]</b>. IEEE Access, 2022, 10: 11608-11615. [Link](https://ieeexplore.ieee.org/abstract/document/9691385/) [Code](https://github.com/list-luxembourg/salsa)
 * Álvarez G, Fraire J A, Hassan K A, et al. <b>Uplink transmission policies for LoRa-based direct-to-satellite IoT[J]</b>. IEEE Access, 2022, 10: 72687-72701. [Link](https://ieeexplore.ieee.org/abstract/document/9825690/) [Code](https://github.com/alvarezguido/lora-space)
 * Ramírez T, Mosquera C, Alagha N. <b>Flexible user mapping for radio resource assignment in advanced satellite payloads[J]</b>. IEEE Transactions on Broadcasting, 2022, 68(3): 723-739. [Link](https://ieeexplore.ieee.org/abstract/document/9786763/) [Code](https://github.com/tomramzp/ResourceAssignmentOneDimesion)
