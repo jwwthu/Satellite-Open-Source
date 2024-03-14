@@ -21,6 +21,9 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * https://github.com/may5hap/SatSIM 基于图神经网络的低轨卫星网络动态路由算法研究_汪昊
 * ITU-Rpy: [Link](https://itu-rpy.readthedocs.io/en/latest/index.html) [Github Link](https://github.com/inigodelportillo/ITU-Rpy/)
 * [https://starlink.memgraph.com/](https://starlink.memgraph.com/) [https://github.com/memgraph/starlink](https://github.com/memgraph/starlink)
+* Sá Gomes J, Ferreira da Silva A. <b>TinyGS vs. SatNOGS: A Comparative Analysis of Open-Source Satellite Ground Station Networks[C]</b>//Telecom. Multidisciplinary Digital Publishing Institute, 2024, 5(1): 228-254. [Link](https://www.mdpi.com/2673-4001/5/1/12)
+    + [TinyGS](https://github.com/G4lile0/tinyGS)
+    + [SatNOGS](https://satnogs.org/)
 
 ### Course
 * [卫星通信载荷波束形成与抗干扰虚拟仿真实验](https://mool.njust.edu.cn/exp/224.html)
