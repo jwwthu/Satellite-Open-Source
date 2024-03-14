@@ -35,6 +35,14 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 ### Course
 * [卫星通信载荷波束形成与抗干扰虚拟仿真实验](https://mool.njust.edu.cn/exp/224.html)
 
+### Relevant Groups
+* [SSL Oxford: Systems Security Lab @ University of Oxford](https://github.com/ssloxford)
+    + [https://github.com/ssloxford/SatIQ-noise](https://github.com/ssloxford/SatIQ-noise): Data collection and analysis code for "Sticky Fingers: Resilience of Satellite Fingerprinting Systems against Jamming Attacks".
+    + [https://github.com/ssloxford/SatIQ](https://github.com/ssloxford/SatIQ): Data collection, models, and fingerprinting code for "Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting"
+    + [https://github.com/ssloxford/satellite-spoofing-a-z](https://github.com/ssloxford/satellite-spoofing-a-z): Satellite Spoofing from A to Z: On the Requirements of Satellite Downlink Overshadowing Attacks
+    + [https://github.com/ssloxford/firefly](https://github.com/ssloxford/firefly): Firefly: Spoofing Earth Observation Satellite Data through Radio Overshadowing
+    + [https://github.com/ssloxford/gsextract](https://github.com/ssloxford/gsextract): GSExtract is a tool for converting imperfect satellite radio captures of internet traffic transmitted using Generic Stream Encapsulation (GSE) over DVB-S into usable *.pcap files.
+
 # 2024
 * Liu Y, Wang L, Lu Z, et al. <b>A Stateless Design of Satellite-Terrestrial Integrated Core Network and its Deployment Strategy[J]</b>. IEEE Transactions on Network and Service Management, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10261425/) [Code](https://github.com/LiuYu97/A-Stateless-Design-of-Satellite-Terrestrial-Integrated-Core-Network-and-its-Deployment-Strategy.git)
 
