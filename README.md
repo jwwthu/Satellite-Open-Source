@@ -31,6 +31,9 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * Sá Gomes J, Ferreira da Silva A. <b>TinyGS vs. SatNOGS: A Comparative Analysis of Open-Source Satellite Ground Station Networks[C]</b>//Telecom. Multidisciplinary Digital Publishing Institute, 2024, 5(1): 228-254. [Link](https://www.mdpi.com/2673-4001/5/1/12)
     + [TinyGS](https://github.com/G4lile0/tinyGS)
     + [SatNOGS](https://satnogs.org/)
+* SNK: https://github.com/xdr940/snk
+    + A emulation\simulation framework of space network
+    + Wang X, Han X, Yang M, et al. Space Networking Kit: A Novel Simulation Platform for Emerging LEO Mega-constellations[J]. arXiv preprint arXiv:2401.07511, 2024.
 
 ### Course
 * [卫星通信载荷波束形成与抗干扰虚拟仿真实验](https://mool.njust.edu.cn/exp/224.html)
