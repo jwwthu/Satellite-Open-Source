@@ -47,6 +47,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + [https://github.com/ssloxford/gsextract](https://github.com/ssloxford/gsextract): GSExtract is a tool for converting imperfect satellite radio captures of internet traffic transmitted using Generic Stream Encapsulation (GSE) over DVB-S into usable *.pcap files.
 
 # 2024
+* Seman L O, Rigo C A, Camponogara E, et al. <b>Benders decomposition for the energy aware task scheduling of constellations of nanosatellites[J]</b>. Computers & Operations Research, 2024: 106618. [Link](https://www.sciencedirect.com/science/article/pii/S030505482400090X) [Code](https://github.com/lseman/satDP)
 * Laniewski D, Lanfer E, Beginn S, et al. <b>Starlink on the Road: A First Look at Mobile Starlink Performance in Central Europe[J]</b>. arXiv preprint arXiv:2403.13497, 2024. [Link](https://arxiv.org/abs/2403.13497) [Data](https://github.com/sys-uos/Starlink-on-the-Road)
 * Liu Y, Wang L, Lu Z, et al. <b>A Stateless Design of Satellite-Terrestrial Integrated Core Network and its Deployment Strategy[J]</b>. IEEE Transactions on Network and Service Management, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10261425/) [Code](https://github.com/LiuYu97/A-Stateless-Design-of-Satellite-Terrestrial-Integrated-Core-Network-and-its-Deployment-Strategy.git)
 
