@@ -47,6 +47,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + [https://github.com/ssloxford/gsextract](https://github.com/ssloxford/gsextract): GSExtract is a tool for converting imperfect satellite radio captures of internet traffic transmitted using Generic Stream Encapsulation (GSE) over DVB-S into usable *.pcap files.
 
 # 2024
+* Petrou M, Pradas D, Royer M, et al. <b>Unveiling YouTube QoE over SATCOM using Deep-Learning[J]</b>. IEEE Access, 2024. [Link](https://ieeexplore.ieee.org/document/10472498) [Data](https://github.com/viveris/satcom-qoe-dataset)
 * Furutanpey A, Zhang Q, Raith P, et al. <b>FOOL: Addressing the Downlink Bottleneck in Satellite Computing with Neural Feature Compression[J]</b>. arXiv preprint arXiv:2403.16677, 2024. [Link](https://arxiv.org/abs/2403.16677) [Code](https://github.com/rezafuru/the-fool)
 * Seman L O, Rigo C A, Camponogara E, et al. <b>Benders decomposition for the energy aware task scheduling of constellations of nanosatellites[J]</b>. Computers & Operations Research, 2024: 106618. [Link](https://www.sciencedirect.com/science/article/pii/S030505482400090X) [Code](https://github.com/lseman/satDP)
 * Laniewski D, Lanfer E, Beginn S, et al. <b>Starlink on the Road: A First Look at Mobile Starlink Performance in Central Europe[J]</b>. arXiv preprint arXiv:2403.13497, 2024. [Link](https://arxiv.org/abs/2403.13497) [Data](https://github.com/sys-uos/Starlink-on-the-Road)
