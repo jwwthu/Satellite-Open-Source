@@ -122,6 +122,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * Zhang S, Yu G, Yu S, et al. <b>Weather-Conscious Adaptive Modulation and Coding Scheme for Satellite-Related Ubiquitous Networking and Computing[J]</b>. Electronics, 2022, 11(9): 1297. [Link](https://www.mdpi.com/1594802) [Data](https://github.com/zsq95919/Starlink_Simulation_Dataset)
 
 # 2021
+* Marcano N J H, Diez L, Calvo R A, et al. <b>On the queuing delay of time-varying channels in low earth orbit satellite constellations[J]</b>. IEEE Access, 2021, 9: 87378-87390. [Link](https://ieeexplore.ieee.org/abstract/document/9454162/) [Code](https://github.com/tlmat-unican/queuing-leo)
 * Li Q, Wang S, Ma X, et al. <b>Service coverage for satellite edge computing[J]</b>. IEEE Internet of Things Journal, 2021, 9(1): 695-705. [Link](https://ieeexplore.ieee.org/abstract/document/9444334/) [Code](http://sguangwang.com/Source%20code/SEC.zip)
 * Drif Y, Lavinal E, Chaput E, et al. <b>Slice aware non terrestrial networks[C]</b>//2021 IEEE 46th Conference on Local Computer Networks (LCN). IEEE, 2021: 24-31. [Link](https://ieeexplore.ieee.org/abstract/document/9524938/) [Code](https://github.com/shynuu/slice-aware-ntn)
 * Wang H, Wang H, An J. <b>Dynamic game-based computation offloading and resource allocation in LEO-multiaccess edge computing[J]</b>. Wireless Communications and Mobile Computing, 2021, 2021: 1-13. [Link](https://www.hindawi.com/journals/wcmc/2021/9486818/) [Data](http://www.spec.org/cpu2006/results/cpu2006.html)
