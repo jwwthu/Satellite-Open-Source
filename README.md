@@ -47,6 +47,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + [https://github.com/ssloxford/gsextract](https://github.com/ssloxford/gsextract): GSExtract is a tool for converting imperfect satellite radio captures of internet traffic transmitted using Generic Stream Encapsulation (GSE) over DVB-S into usable *.pcap files.
 
 # 2024
+* Mohan N, Ferguson A E, Cech H, et al. <b>A Multifaceted Look at Starlink Performance[C]</b>//WWW'24: The ACM Web Conference 2024. ACM, 2024: 1-12. [Link](https://arxiv.org/abs/2310.09242) [Code](https://github.com/nitindermohan/multifaceted-starlink-performance) [Data](https://mediatum.ub.tum.de/1734703)
 * Zhang R, Du H, Liu Y, et al. <b>Interactive Generative AI Agents for Satellite Networks through a Mixture of Experts Transmission[J]</b>. arXiv preprint arXiv:2404.09134, 2024. [Link](https://arxiv.org/abs/2404.09134) [Code](https://github.com/RickyZang/GAI-agent-satellite)
 * Petrou M, Pradas D, Royer M, et al. <b>Unveiling YouTube QoE over SATCOM using Deep-Learning[J]</b>. IEEE Access, 2024. [Link](https://ieeexplore.ieee.org/document/10472498) [Data](https://github.com/viveris/satcom-qoe-dataset)
 * Furutanpey A, Zhang Q, Raith P, et al. <b>FOOL: Addressing the Downlink Bottleneck in Satellite Computing with Neural Feature Compression[J]</b>. arXiv preprint arXiv:2403.16677, 2024. [Link](https://arxiv.org/abs/2403.16677) [Code](https://github.com/rezafuru/the-fool)
