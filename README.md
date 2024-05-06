@@ -51,6 +51,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + [https://github.com/Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus)
 
 # 2024
+* Xing R, Xu M, Zhou A, et al. <b>Deciphering the enigma of satellite computing with cots devices: Measurement and analysis[J]</b>. MobiCom 2024. [Link](https://arxiv.org/abs/2401.03435) [Data](https://github.com/TiansuanConstellation/MobiCom24-SatelliteCOTS)
 * Shahid H, Vázquez M Á, Shaat M, et al. <b>Open Datasets for Satellite Radio Resource Control[J]</b>. arXiv preprint arXiv:2404.13920, 2024. [Link](https://arxiv.org/abs/2404.13920) [Data link1](https://datasets.cttc.es/) [Data link2](https://cloud.cttc.es/index.php/s/Z9F4gSnRsxFG3BM)
 * Laniewski D, Lanfer E, Meijerink B, et al. <b>WetLinks: a Large-Scale Longitudinal Starlink Dataset with Contiguous Weather Data[J]</b>. arXiv preprint arXiv:2402.16448, 2024. [Link](https://arxiv.org/abs/2402.16448) [Code and Data](https://github.com/sys-uos/WetLinks)
 * Mohan N, Ferguson A E, Cech H, et al. <b>A Multifaceted Look at Starlink Performance[C]</b>//WWW'24: The ACM Web Conference 2024. ACM, 2024: 1-12. [Link](https://arxiv.org/abs/2310.09242) [Code](https://github.com/nitindermohan/multifaceted-starlink-performance) [Data](https://mediatum.ub.tum.de/1734703)
