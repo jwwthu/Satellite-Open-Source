@@ -34,6 +34,8 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * SNK: https://github.com/xdr940/snk
     + A emulation\simulation framework of space network
     + Wang X, Han X, Yang M, et al. Space Networking Kit: A Novel Simulation Platform for Emerging LEO Mega-constellations[J]. arXiv preprint arXiv:2401.07511, 2024.
++ [Nanosats Database](https://www.nanosats.eu/sat/fossasat-2)
++ [Satellite IoT Solutions](https://fossa.systems/)
 
 ### Course
 * [卫星通信载荷波束形成与抗干扰虚拟仿真实验](https://mool.njust.edu.cn/exp/224.html)
