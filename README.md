@@ -55,6 +55,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + [https://github.com/Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus)
 
 # 2024
+* Lozano-Cuadra F, Thorsager M D, Leyva-Mayorga I, et al. <b>An open source Multi-Agent Deep Reinforcement Learning Routing Simulator for satellite networks[J]</b>. arXiv preprint arXiv:2407.11047, 2024. [Link](https://arxiv.org/abs/2407.11047) [Code](https://github.com/SatCom-TELMA/MA-DRL_Routing_Simulator)
 * Jing W, Liu C, Cai H, et al. <b>MEC-Based Super-Resolution Enhanced Adaptive Video Streaming Optimization for Mobile Networks With Satellite Backhaul[J]</b>. IEEE Transactions on Network and Service Management, 2024. [Link](https://ieeexplore.ieee.org/document/10473143) [Code](https://github.com/Liuchanghao1999/SatSR)
 * Lai Z, Wang Y, Li H, et al. <b>Your Mega-Constellations Can Be Slim: A Cost-Effective Approach for Constructing Survivable and Performant LEO Satellite Networks[J]</b>. IEEE International Conference on Computer Communications (INFOCOM'24). [Link](https://arxiv.org/abs/2407.03799) [Code](https://github.com/SpaceNetLab/MegaReduce)
 * Zhao J, Pan J. <b>LENS: A LEO Satellite Network Measurement Dataset[C]</b>//Proceedings of the 15th ACM Multimedia Systems Conference. 2024: 278-284. [Link](https://dl.acm.org/doi/abs/10.1145/3625468.3652170) [Data1](https://github.com/clarkzjw/LENS) [Data2](https://zenodo.org/records/10020034)
