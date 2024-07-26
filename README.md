@@ -38,6 +38,8 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 + [Satellite IoT Solutions](https://fossa.systems/)
 + [Multibeam Fixed-Satellite Service Simulator](https://github.com/9c9a/mfs3)
 + [walkerStar-Matlab Toolbox function](https://www.mathworks.com/help/aerotbx/ug/satellitescenario.walkerstar.html)
++ [航天器系统仿真软件SpaceSim](https://spacesim.readthedocs.io/en/latest/)
++ [Aerospace Tool Kit (ATK)](https://smsat.space/)
 
 ### Course
 * [卫星通信载荷波束形成与抗干扰虚拟仿真实验](https://mool.njust.edu.cn/exp/224.html)
