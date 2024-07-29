@@ -57,6 +57,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + [https://github.com/Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus)
 
 # 2024
+* Shinde S S, Tarchi D. <b>Hierarchical Reinforcement Learning for Multi-layer Multi-Service Non-Terrestrial Vehicular Edge Computing[J]</b>. IEEE Transactions on Machine Learning in Communications and Networking, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10609447/) [Code](https://github.com/swapnilshinde15/EC_HRL.git)
 * Lozano-Cuadra F, Thorsager M D, Leyva-Mayorga I, et al. <b>An open source Multi-Agent Deep Reinforcement Learning Routing Simulator for satellite networks[J]</b>. arXiv preprint arXiv:2407.11047, 2024. [Link](https://arxiv.org/abs/2407.11047) [Code](https://github.com/SatCom-TELMA/MA-DRL_Routing_Simulator)
 * Jing W, Liu C, Cai H, et al. <b>MEC-Based Super-Resolution Enhanced Adaptive Video Streaming Optimization for Mobile Networks With Satellite Backhaul[J]</b>. IEEE Transactions on Network and Service Management, 2024. [Link](https://ieeexplore.ieee.org/document/10473143) [Code](https://github.com/Liuchanghao1999/SatSR)
 * Lai Z, Wang Y, Li H, et al. <b>Your Mega-Constellations Can Be Slim: A Cost-Effective Approach for Constructing Survivable and Performant LEO Satellite Networks[J]</b>. IEEE International Conference on Computer Communications (INFOCOM'24). [Link](https://arxiv.org/abs/2407.03799) [Code](https://github.com/SpaceNetLab/MegaReduce)
