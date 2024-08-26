@@ -57,6 +57,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + [https://github.com/Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus)
 
 # 2024
+* Y. Zhang, D. Jiang, F. Shao, T. Wu, X. Liang and J. Chen, <b>Aeronautical Communication Traffic Simulation Based on Kernel Density Estimation Method</b>. 2024 IEEE 12th Asia-Pacific Conference on Antennas and Propagation (APCAP). accepted [Code](https://github.com/sjtuSecondSilly/Aeronautical-Communication-Traffic-Simulation-Based-on-Kernel-Density-Estimation-Method)
 * Furutanpey A, Zhang Q, Raith P, et al. <b>FOOL: Addressing the Downlink Bottleneck in Satellite Computing with Neural Feature Compression[J]</b>. arXiv preprint arXiv:2403.16677, 2024. [Link](https://arxiv.org/abs/2403.16677) [Code](https://github.com/rezafuru/the-fool)
 * Tao B, Chabra O, Janveja I, et al. <b>Known Knowns and Unknowns: Near-realtime Earth Observation Via Query Bifurcation in Serval[C]</b>//21st USENIX Symposium on Networked Systems Design and Implementation (NSDI 24). 2024: 809-824. [Link](https://www.usenix.org/conference/nsdi24/presentation/tao) [Code](https://github.com/ConnectedSystemsLab/Serval)
 * Shinde S S, Tarchi D. <b>Hierarchical Reinforcement Learning for Multi-layer Multi-Service Non-Terrestrial Vehicular Edge Computing[J]</b>. IEEE Transactions on Machine Learning in Communications and Networking, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10609447/) [Code](https://github.com/swapnilshinde15/EC_HRL.git)
