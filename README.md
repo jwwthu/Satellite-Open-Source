@@ -57,6 +57,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + [https://github.com/Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus)
 
 # 2024
+* Jia Z, Xiong W, Hao H, et al. <b>Joint Load and Capacity Scheduling for Flexible Radio Resource Management of High-Throughput Satellites[J]</b>. Tsinghua Science and Technology, 2024. [Link](https://www.sciopen.com/article/10.26599/TST.2024.9010161) [Code](https://github.com/crystal-zwz/HTS_RRM_Joint-Load-and-Capacity-Scheduling)
 * Y. Zhang, D. Jiang, F. Shao, T. Wu, X. Liang and J. Chen, <b>Aeronautical Communication Traffic Simulation Based on Kernel Density Estimation Method</b>. 2024 IEEE 12th Asia-Pacific Conference on Antennas and Propagation (APCAP). accepted [Code](https://github.com/sjtuSecondSilly/Aeronautical-Communication-Traffic-Simulation-Based-on-Kernel-Density-Estimation-Method)
 * Furutanpey A, Zhang Q, Raith P, et al. <b>FOOL: Addressing the Downlink Bottleneck in Satellite Computing with Neural Feature Compression[J]</b>. arXiv preprint arXiv:2403.16677, 2024. [Link](https://arxiv.org/abs/2403.16677) [Code](https://github.com/rezafuru/the-fool)
 * Tao B, Chabra O, Janveja I, et al. <b>Known Knowns and Unknowns: Near-realtime Earth Observation Via Query Bifurcation in Serval[C]</b>//21st USENIX Symposium on Networked Systems Design and Implementation (NSDI 24). 2024: 809-824. [Link](https://www.usenix.org/conference/nsdi24/presentation/tao) [Code](https://github.com/ConnectedSystemsLab/Serval)
