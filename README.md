@@ -58,6 +58,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + [https://github.com/Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus)
 
 # 2024
+* Pfandzelter T, Bermbach D. <b>Komet: A Serverless Platform for Low-Earth Orbit Edge Services[J]</b>. arXiv preprint arXiv:2410.05973, 2024. [Link](https://arxiv.org/abs/2410.05973) [Code](https://github.com/3s-rg/komet)
 * Tian W, Li Y, Zhao J, et al. <b>An eBPF-Based Trace-Driven Emulation Method for Satellite Networks[J]</b>. arXiv preprint arXiv:2408.15581, 2024. [Link](https://arxiv.org/abs/2408.15581) [Code](https://github.com/yeliqseu/ebpf-trace-emu)
 * Lai Z, Liu W, Wu Q, et al. <b>SpaceRTC: Unleashing the Low-latency Potential of Mega-constellations for Wide-Area Real-Time Communications[J]</b>. IEEE Transactions on Mobile Computing, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10697473/) [Code](https://github.com/SpaceNetLab/SpaceRTC_Project)
 * Jia Z, Xiong W, Hao H, et al. <b>Joint Load and Capacity Scheduling for Flexible Radio Resource Management of High-Throughput Satellites[J]</b>. Tsinghua Science and Technology, 2024. [Link](https://www.sciopen.com/article/10.26599/TST.2024.9010161) [Code](https://github.com/crystal-zwz/HTS_RRM_Joint-Load-and-Capacity-Scheduling)
