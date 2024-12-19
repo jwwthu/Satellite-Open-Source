@@ -2,6 +2,7 @@
 This is the repository for the collection of open source code and data for satellite communication.
 
 If you find this repository helpful, you may consider cite our relevant work:
+* Lai J, Liu H, Xu G, et al. <b>Joint Computation Offloading and Resource Allocation for LEO Satellite Networks Using Hierarchical Multi-Agent Reinforcement Learning[J]</b>. IEEE Transactions on Cognitive Communications and Networking, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10772608/)
 * Jiang W, Han H, He M, et al. <b>When game theory meets satellite communication networks: A survey[J]</b>. Computer Communications, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S0140366424000446)
 * Jiang W, et al. <b>Federated split learning for sequential data in satellite-terrestrial integrated networks[J]</b>. Information Fusion, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S1566253523004578)
 * Jiang W. <b>Software defined satellite networks: A survey[J]</b>. Digital Communications and Networks, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S2352864823000299)
