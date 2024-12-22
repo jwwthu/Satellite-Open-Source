@@ -59,6 +59,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + [https://github.com/Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus)
 
 # 2024
+* Zhang T, Liu C, Tian Q, et al. <b>Cloud‐Edge Collaboration‐Based Multi‐Cluster System for Space‐Ground Integrated Network[J]</b>. International Journal of Satellite Communications and Networking, 2024. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sat.1541) [Code](https://github.com/ztguang/SGIN)
 * Lin J, Wang S. <b>Adaptive Video Streaming in Integrated Satellite-Terrestrial Networks: A Low-Complexity Model Predictive Control Approach[J]</b>. IEEE Wireless Communications Letters, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10681564/) [Code](https://github.com/wsyCUHK/ABR_Integrated_Satellite_Terrestrial_Networks)
 * Laniewski D, Thieme S, Zimmermann T, et al. <b>The Impact of LEO Satellite Network Instabilities on the Performance of Networking Applications[C]</b>//2024 IEEE 49th Conference on Local Computer Networks (LCN). IEEE, 2024: 1-4. [Link](https://ieeexplore.ieee.org/abstract/document/10639672/) [Data](https://github.com/sys-uos/WetLinks)
 * Pfandzelter T, Bermbach D. <b>Komet: A Serverless Platform for Low-Earth Orbit Edge Services[J]</b>. arXiv preprint arXiv:2410.05973, 2024. [Link](https://arxiv.org/abs/2410.05973) [Code](https://github.com/3s-rg/komet)
