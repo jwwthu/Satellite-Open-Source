@@ -42,6 +42,9 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 + [航天器系统仿真软件SpaceSim](https://spacesim.readthedocs.io/en/latest/)
 + [Aerospace Tool Kit (ATK)](https://smsat.space/)
 + [VVPSTK](https://vvpstk.com/)
++ [TSNSatelliteRouting](https://gitee.com/spuerchao/tsnsatellite-routing)
++ [satellite_routing](https://github.com/Fede-Berga/satellite_routing)
++ [Zone-routing-protocol](https://github.com/mathias-magnusson/Zone-routing-protocol)
 
 ### Course
 * [卫星通信载荷波束形成与抗干扰虚拟仿真实验](https://mool.njust.edu.cn/exp/224.html)
@@ -59,6 +62,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + [https://github.com/Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus)
 
 # 2024
+* Qin L, Liu X, Wei W, et al. Satformer: Accurate and Robust Traffic Data Estimation for Satellite Networks[C]//The Thirty-eighth Annual Conference on Neural Information Processing Systems. [Link and Code](https://openreview.net/forum?id=Vw1V9AgPXW)
 * Zhang T, Liu C, Tian Q, et al. <b>Cloud‐Edge Collaboration‐Based Multi‐Cluster System for Space‐Ground Integrated Network[J]</b>. International Journal of Satellite Communications and Networking, 2024. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sat.1541) [Code](https://github.com/ztguang/SGIN)
 * Lin J, Wang S. <b>Adaptive Video Streaming in Integrated Satellite-Terrestrial Networks: A Low-Complexity Model Predictive Control Approach[J]</b>. IEEE Wireless Communications Letters, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10681564/) [Code](https://github.com/wsyCUHK/ABR_Integrated_Satellite_Terrestrial_Networks)
 * Laniewski D, Thieme S, Zimmermann T, et al. <b>The Impact of LEO Satellite Network Instabilities on the Performance of Networking Applications[C]</b>//2024 IEEE 49th Conference on Local Computer Networks (LCN). IEEE, 2024: 1-4. [Link](https://ieeexplore.ieee.org/abstract/document/10639672/) [Data](https://github.com/sys-uos/WetLinks)
