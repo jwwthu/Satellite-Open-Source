@@ -62,6 +62,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + [https://github.com/Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus)
 
 # 2024
+* Wang B, Zhang X, Wang S, et al. <b>A Large-Scale IPv6-Based Measurement of the Starlink Network[J]</b>. arXiv preprint arXiv:2412.18243, 2024. [Link](https://arxiv.org/abs/2412.18243) [Data](https://ki3.org.cn/#/starlink-network)
 * Qin L, Liu X, Wei W, et al. <b>Satformer: Accurate and Robust Traffic Data Estimation for Satellite Networks[C]</b>//The Thirty-eighth Annual Conference on Neural Information Processing Systems. [Link and Code](https://openreview.net/forum?id=Vw1V9AgPXW)
 * Zhang T, Liu C, Tian Q, et al. <b>Cloud‐Edge Collaboration‐Based Multi‐Cluster System for Space‐Ground Integrated Network[J]</b>. International Journal of Satellite Communications and Networking, 2024. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sat.1541) [Code](https://github.com/ztguang/SGIN)
 * Lin J, Wang S. <b>Adaptive Video Streaming in Integrated Satellite-Terrestrial Networks: A Low-Complexity Model Predictive Control Approach[J]</b>. IEEE Wireless Communications Letters, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10681564/) [Code](https://github.com/wsyCUHK/ABR_Integrated_Satellite_Terrestrial_Networks)
