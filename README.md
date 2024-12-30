@@ -62,6 +62,8 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + [https://github.com/Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus)
 
 # 2024
+* Kamel V, Zhao J, Li D, et al. <b>StarQUIC: Tuning Congestion Control Algorithms for QUIC over LEO Satellite Networks[C]</b>//Proceedings of the 2nd International Workshop on LEO Networking and Communication. 2024: 43-48. [Link](https://dl.acm.org/doi/abs/10.1145/3697253.3697271) [Code](https://github.com/HeroHFM/starquic)
+* Ahangarpour A, Zhao J, Pan J. <b>Trajectory-based Serving Satellite Identification with User Terminal's Field-of-View[C]</b>//Proceedings of the 2nd International Workshop on LEO Networking and Communication. 2024: 55-60. [Link](https://dl.acm.org/doi/abs/10.1145/3697253.3697266) [Code](https://github.com/aliahan/SatInView)
 * Wang B, Zhang X, Wang S, et al. <b>A Large-Scale IPv6-Based Measurement of the Starlink Network[J]</b>. arXiv preprint arXiv:2412.18243, 2024. [Link](https://arxiv.org/abs/2412.18243) [Data](https://ki3.org.cn/#/starlink-network)
 * Qin L, Liu X, Wei W, et al. <b>Satformer: Accurate and Robust Traffic Data Estimation for Satellite Networks[C]</b>//The Thirty-eighth Annual Conference on Neural Information Processing Systems. [Link and Code](https://openreview.net/forum?id=Vw1V9AgPXW)
 * Zhang T, Liu C, Tian Q, et al. <b>Cloud‐Edge Collaboration‐Based Multi‐Cluster System for Space‐Ground Integrated Network[J]</b>. International Journal of Satellite Communications and Networking, 2024. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sat.1541) [Code](https://github.com/ztguang/SGIN)
