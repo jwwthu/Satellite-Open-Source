@@ -61,6 +61,9 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + a crowdsourced measurement platform based on the Ookla speed test.
     + [https://github.com/Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus)
 
+# 2025
+* Testi E, Paolini E. <b>Packet Collision Probability of Direct-to-Satellite IoT Systems[J]</b>. IEEE Internet of Things Journal, 2025. [Link](https://ieeexplore.ieee.org/document/10699332) [Code](https://github.com/wilabcnit/wilablpwanntnsim)
+
 # 2024
 * Maldonado D, Cardoso L S, Fraire J A, et al. <b>Enhanced LR-FHSS receiver for headerless frame recovery in space-terrestrial integrated IoT networks[J]</b>. Computer Networks, 2024: 111018. [Link](https://www.sciencedirect.com/science/article/pii/S1389128624008508) [Code](https://github.com/diegomm6/lr-fhss_seq-families)
 * Kamel V, Zhao J, Li D, et al. <b>StarQUIC: Tuning Congestion Control Algorithms for QUIC over LEO Satellite Networks[C]</b>//Proceedings of the 2nd International Workshop on LEO Networking and Communication. 2024: 43-48. [Link](https://dl.acm.org/doi/abs/10.1145/3697253.3697271) [Code](https://github.com/HeroHFM/starquic)
