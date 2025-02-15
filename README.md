@@ -64,6 +64,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + [https://github.com/Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus)
 
 # 2025
+* Ron D, Yusufzai F A, Kwakye S, et al. <b>Time-Dependent Network Topology Optimization for LEO Satellite Constellations[J]</b>. arXiv preprint arXiv:2501.13280, 2025. [Link](https://arxiv.org/abs/2501.13280) [Code](https://github.com/FarzadMehri/SpaceNet)
 * Liu W, Wu J, Lin Q, et al. <b>Efficient Satellite-Ground Interconnection Design for Low-orbit Mega-Constellation Topology[J]</b>. IEEE Transactions on Mobile Computing, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10741888/) [Code](https://github.com/jingjiuxiaoshishu/LMCN-SGI)
 * Testi E, Paolini E. <b>Packet Collision Probability of Direct-to-Satellite IoT Systems[J]</b>. IEEE Internet of Things Journal, 2025. [Link](https://ieeexplore.ieee.org/document/10699332) [Code](https://github.com/wilabcnit/wilablpwanntnsim)
 
