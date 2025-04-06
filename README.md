@@ -63,6 +63,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * [https://starlinkstatus.space](https://starlinkstatus.space)
     + a crowdsourced measurement platform based on the Ookla speed test.
     + [https://github.com/Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus)
+* [6GSPACELab - University of Luxembourg](https://6gspacelab.uni.lu/)
 
 # 2025
 * Ron D, Yusufzai F A, Kwakye S, et al. <b>Time-Dependent Network Topology Optimization for LEO Satellite Constellations[J]</b>. arXiv preprint arXiv:2501.13280, 2025. [Link](https://arxiv.org/abs/2501.13280) [Code](https://github.com/FarzadMehri/SpaceNet)
