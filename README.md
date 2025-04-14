@@ -48,6 +48,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 + [satellite_routing](https://github.com/Fede-Berga/satellite_routing)
 + [Zone-routing-protocol](https://github.com/mathias-magnusson/Zone-routing-protocol)
 + [ION-DTN](https://github.com/nasa-jpl/ION-DTN)
++ [awesome-satellite-network](https://github.com/liuwei-network/awesome-satellite-network)
 
 ### Course
 * [卫星通信载荷波束形成与抗干扰虚拟仿真实验](https://mool.njust.edu.cn/exp/224.html)
