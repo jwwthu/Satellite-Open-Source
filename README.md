@@ -67,6 +67,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * [6GSPACELab - University of Luxembourg](https://6gspacelab.uni.lu/)
 
 # 2025
+* Ullah M A, Souza R D, Pasolini G, et al. <b>Extending the LoRa Direct-to-Satellite Limits: Doppler Shift Pre-Compensation[J]</b>. IEEE Open Journal of the Communications Society, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10937974/) [Code](https://github.com/MuhammadAsadUllah1/LoRa-Doppler-Shift-Pre-Compensation.git)
 * Cao X, Nan G, Guo H, et al. <b>Exploring LLM-Based Multi-Agent Situation Awareness for Zero-Trust Space-Air-Ground Integrated Network[J]</b>. IEEE Journal on Selected Areas in Communications, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10963886/) [Code (coming soon)](https://github.com/caoxinye/LLM-SA)
 * Laniewski D, Lanfer E, Aschenbruck N. <b>Measuring Mobile Starlink Performance: A Comprehensive Look[J]</b>. IEEE Open Journal of the Communications Society, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10877858/) [Data](https://ieee-dataport.org/documents/starlink-autobahn) [Code](https://github.com/sys-uos/Starlink-on-the-Autobahn)
 * Ron D, Yusufzai F A, Kwakye S, et al. <b>Time-Dependent Network Topology Optimization for LEO Satellite Constellations[J]</b>. arXiv preprint arXiv:2501.13280, 2025. [Link](https://arxiv.org/abs/2501.13280) [Code](https://github.com/FarzadMehri/SpaceNet)
