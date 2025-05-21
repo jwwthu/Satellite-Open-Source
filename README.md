@@ -76,6 +76,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * Testi E, Paolini E. <b>Packet Collision Probability of Direct-to-Satellite IoT Systems[J]</b>. IEEE Internet of Things Journal, 2025. [Link](https://ieeexplore.ieee.org/document/10699332) [Code](https://github.com/wilabcnit/wilablpwanntnsim)
 
 # 2024
+* Li Q, Wang S, Xu C, et al. <b>Exploring Real-Time Satellite Computing: From Energy and Thermal Perspectives[C]</b>//2024 IEEE Real-Time Systems Symposium (RTSS). IEEE, 2024: 161-173. [Link](https://ieeexplore.ieee.org/abstract/document/10844698/) [Data](https://github.com/qinglibupt/Satellite-computing-dataset)
 * Bhosale V, Gavrilovska A, Bhardwaj K. <b>Krios: Scheduling Abstractions and Mechanisms for Enabling a LEO Compute Cloud[C]</b>//Proceedings of the 2024 ACM Symposium on Cloud Computing. 2024: 322-340. [Link](https://dl.acm.org/doi/abs/10.1145/3698038.3698566) [Code](https://github.com/GTkernel/krios)
 * Pfandzelter T, Bermbach D. <b>Komet: A Serverless Platform for Low-Earth Orbit Edge Services[C]</b>//Proceedings of the 2024 ACM Symposium on Cloud Computing. 2024: 866-882. [Link](https://dl.acm.org/doi/abs/10.1145/3698038.3698517) [Code](https://github.com/3s-rg/komet)
 * Gifford K K, Pearce B, Morris E, et al. <b>Satellite Orbit Prediction Processor: Mitigating Satellite RFI to Radio Astronomy[C]</b>//2024 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN). IEEE, 2024: 19-26. [Link](https://ieeexplore.ieee.org/abstract/document/10632742/) [Tool](https://pypi.org/project/sopp/)
