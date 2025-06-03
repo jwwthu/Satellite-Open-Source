@@ -67,6 +67,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * [6GSPACELab - University of Luxembourg](https://6gspacelab.uni.lu/)
 
 # 2025
+* Zhu J, Shi Y, Zhou Y, et al. <b>Hierarchical learning and computing over space-ground integrated networks[J]</b>. IEEE Transactions on Mobile Computing, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11003406/) [Code](https://github.com/Jingyang-Zhu/HierLC)
 * Pfandzelter T, Bauer N, Leis A, et al. <b>Trabant: A Serverless Architecture for Multi-Tenant Orbital Edge Computing[J]</b>. arXiv preprint arXiv:2504.08337, 2025. [Link](https://arxiv.org/abs/2504.08337) [Code](https://github.com/project-spencer/trabant)
 * Ullah M A, Souza R D, Pasolini G, et al. <b>Extending the LoRa Direct-to-Satellite Limits: Doppler Shift Pre-Compensation[J]</b>. IEEE Open Journal of the Communications Society, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10937974/) [Code](https://github.com/MuhammadAsadUllah1/LoRa-Doppler-Shift-Pre-Compensation.git)
 * Cao X, Nan G, Guo H, et al. <b>Exploring LLM-Based Multi-Agent Situation Awareness for Zero-Trust Space-Air-Ground Integrated Network[J]</b>. IEEE Journal on Selected Areas in Communications, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10963886/) [Code (coming soon)](https://github.com/caoxinye/LLM-SA)
