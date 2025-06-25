@@ -67,6 +67,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * [6GSPACELab - University of Luxembourg](https://6gspacelab.uni.lu/)
 
 # 2025
+* Callistus Odinaka Obidiozor, Adeeb Sait, Tawfik Al-Hadhrami, Eman H. Alkhammash, and Faisal Saeed. <b>Intelligent reflective surfaces in 5G and beyond: optimizing uplink satellite connectivity for IoT</b>. PeerJ Computer Science, 2025. [Link](https://peerj.com/articles/cs-2726/) [Code](https://peerj.com/articles/cs-2726/#supplemental-information)
 * Hu Q, Li B, Zhou J, et al. <b>Fine-grained Anonymous Access for Satellite Communication using Zero Knowledge Proof[J]</b>. IEEE Transactions on Vehicular Technology, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10856368/) [Code](https://github.com/Koll-Stone/SC-zk-akah)
 * Wigchert J, Sciancalepore S, Oligeri G. Detection of Aerial Spoofing Attacks to LEO Satellite Systems via Deep Learning[J]. Computer Networks, 2025. [Link](https://www.sciencedirect.com/science/article/pii/S1389128625003755) [Data](https://github.com/JosWigchert/AerialSpoofingDetectonDataset)
 * Zhu J, Shi Y, Zhou Y, et al. <b>Hierarchical learning and computing over space-ground integrated networks[J]</b>. IEEE Transactions on Mobile Computing, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11003406/) [Code](https://github.com/Jingyang-Zhu/HierLC)
