@@ -2,8 +2,12 @@
 This is the repository for the collection of open source code and data for satellite communication.
 
 If you find this repository helpful, you may consider cite our relevant work:
+* Li Y, Zhu S, Xiong T, et al. <b>Computation Offloading in Delay-Sensitive Multi-Satellite Cooperative Edge Computing Systems[J]</b>. IEEE Internet of Things Journal, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11045088/)
+* Jiang W, Zhang Y, Han H, et al. <b>Quantum Communication in Self-Organizing Satellite Networks: Challenges and Opportunities[J]</b>. IEEE Communications Standards Magazine, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11029273/)
+* Zhang Y, Jiang W, Wan P, et al. <b>Building an Efficient Satellite Network Routing Scheme: Challenges and Opportunities[J]</b>. IEEE Communications Standards Magazine, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11000293/)
 * Jiang W, Zhan Y, Fang X. <b>Satellite Edge Computing for Mobile Multimedia Communications: A Multi-agent Federated Reinforcement Learning Approach[J]</b>. ACM Transactions on Autonomous and Adaptive Systems, 2025. [Link](https://dl.acm.org/doi/10.1145/3715146)
 * Jiang W, Zhan Y, Fang X. <b>Fuzzy neural network based access selection in satellite-terrestrial integrated networks[J]</b>. Journal of Network and Computer Applications, 2025. [Link](https://www.sciencedirect.com/science/article/pii/S1084804525000050)
+* Han H, Jiang W, Zhang Y, et al. <b>Software-Defined Satellite-Terrestrial Integrated Networks with Open-Source Simulation Platforms[C]</b>//2024 20th International Conference on Mobility, Sensing and Networking (MSN). IEEE, 2024: 1182-1183. [Link](https://ieeexplore.ieee.org/abstract/document/11036442/)
 * Lai J, Liu H, Xu G, et al. <b>Joint Computation Offloading and Resource Allocation for LEO Satellite Networks Using Hierarchical Multi-Agent Reinforcement Learning[J]</b>. IEEE Transactions on Cognitive Communications and Networking, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10772608/)
 * Jiang W, Han H, He M, et al. <b>When game theory meets satellite communication networks: A survey[J]</b>. Computer Communications, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S0140366424000446)
 * Jiang W, et al. <b>Federated split learning for sequential data in satellite-terrestrial integrated networks[J]</b>. Information Fusion, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S1566253523004578)
