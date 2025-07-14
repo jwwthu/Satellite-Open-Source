@@ -71,6 +71,8 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * [6GSPACELab - University of Luxembourg](https://6gspacelab.uni.lu/)
 
 # 2025
+* Zhao D, Zhang X, Lee M. <b>SatPipe: Deterministic TCP Adaptation for Highly Dynamic LEO Satellite Networks[C]</b>//IEEE INFOCOM 2025-IEEE Conference on Computer Communications. IEEE, 2025: 1-10. [Link](https://ieeexplore.ieee.org/abstract/document/11044600/) [Code](https://github.com/dzhao99/SatPipe)
+* Liu Y, Jin H, Yao Y W, et al. <b>Distributed On-Orbit Sparse Coding for Efficient Space Situational Awareness Image Transmission[C]</b>//IEEE INFOCOM 2025-IEEE Conference on Computer Communications. IEEE, 2025: 1-10. [Link](https://ieeexplore.ieee.org/abstract/document/11044504/) [Code](https://github.com/apapap-cpu/SSA_IT)
 * Callistus Odinaka Obidiozor, Adeeb Sait, Tawfik Al-Hadhrami, Eman H. Alkhammash, and Faisal Saeed. <b>Intelligent reflective surfaces in 5G and beyond: optimizing uplink satellite connectivity for IoT</b>. PeerJ Computer Science, 2025. [Link](https://peerj.com/articles/cs-2726/) [Code](https://peerj.com/articles/cs-2726/#supplemental-information)
 * Hu Q, Li B, Zhou J, et al. <b>Fine-grained Anonymous Access for Satellite Communication using Zero Knowledge Proof[J]</b>. IEEE Transactions on Vehicular Technology, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10856368/) [Code](https://github.com/Koll-Stone/SC-zk-akah)
 * Wigchert J, Sciancalepore S, Oligeri G. Detection of Aerial Spoofing Attacks to LEO Satellite Systems via Deep Learning[J]. Computer Networks, 2025. [Link](https://www.sciencedirect.com/science/article/pii/S1389128625003755) [Data](https://github.com/JosWigchert/AerialSpoofingDetectonDataset)
