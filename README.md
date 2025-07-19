@@ -71,6 +71,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * [6GSPACELab - University of Luxembourg](https://6gspacelab.uni.lu/)
 
 # 2025
+* Tuninato R, Capez G M, Mazzali N, et al. <b>5G New Radio for Non-Terrestrial Networks: Analysis and Comparison of HARQ and RLC ARQ Performance Over Satellite Links[J]</b>. IEEE Access, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10975810/) [Code](https://github.com/RiccardoTuninato/5G-NR-NTN-PDSCH-simulator)
 * Zhao D, Zhang X, Lee M. <b>SatPipe: Deterministic TCP Adaptation for Highly Dynamic LEO Satellite Networks[C]</b>//IEEE INFOCOM 2025-IEEE Conference on Computer Communications. IEEE, 2025: 1-10. [Link](https://ieeexplore.ieee.org/abstract/document/11044600/) [Code](https://github.com/dzhao99/SatPipe)
 * Liu Y, Jin H, Yao Y W, et al. <b>Distributed On-Orbit Sparse Coding for Efficient Space Situational Awareness Image Transmission[C]</b>//IEEE INFOCOM 2025-IEEE Conference on Computer Communications. IEEE, 2025: 1-10. [Link](https://ieeexplore.ieee.org/abstract/document/11044504/) [Code](https://github.com/apapap-cpu/SSA_IT)
 * Callistus Odinaka Obidiozor, Adeeb Sait, Tawfik Al-Hadhrami, Eman H. Alkhammash, and Faisal Saeed. <b>Intelligent reflective surfaces in 5G and beyond: optimizing uplink satellite connectivity for IoT</b>. PeerJ Computer Science, 2025. [Link](https://peerj.com/articles/cs-2726/) [Code](https://peerj.com/articles/cs-2726/#supplemental-information)
