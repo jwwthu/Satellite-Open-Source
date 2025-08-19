@@ -71,7 +71,8 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * [6GSPACELab - University of Luxembourg](https://6gspacelab.uni.lu/)
 
 # 2025
-
+* Li D, Zhao J, Pan J. <b>FTRL-WRR: Learning-Based Two-Path Scheduler for LEO Networks[C]</b>//2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC). IEEE, 2025: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10976084/) [Code](https://github.com/Peter-LiDP/FTRL-WRR)
+* Liu B, Zhang Q, Yang Q, et al. <b>The Starlink Robot: A Platform and Dataset for Mobile Satellite Communication[J]</b>. arXiv preprint arXiv:2506.19781, 2025. [Link](https://arxiv.org/abs/2506.19781) [Data](https://github.com/StarlinkRobot)
 * Zhang Y, Zang B, Li L, et al. <b>Addressing Spoofing and Unauthorized Access: DL-Based Satellite Physical-Layer Authentication[C]</b>//2025 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2025: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10978520/) [Code](https://github.com/yiwawa/RML24-Cognitive-Radio-for-Satellite)
 * Liu T, Wang T, Li Y, et al. <b>Modeling Packet Loss of Low-Earth Orbit Satellite Networks[C]</b>//2025 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2025: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10978438/) [Code](https://github.com/yeliqseu/starlink-loss-modeling)
 * Tuninato R, Capez G M, Mazzali N, et al. <b>5G New Radio for Non-Terrestrial Networks: Analysis and Comparison of HARQ and RLC ARQ Performance Over Satellite Links[J]</b>. IEEE Access, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10975810/) [Code](https://github.com/RiccardoTuninato/5G-NR-NTN-PDSCH-simulator)
