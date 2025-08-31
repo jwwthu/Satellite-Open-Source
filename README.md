@@ -71,6 +71,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * [6GSPACELab - University of Luxembourg](https://6gspacelab.uni.lu/)
 
 # 2025
+* Zhao J, Perrin O, Ahangarpour A, et al. <b>Measuring the OneWeb Satellite Network[C]</b>//2025 9th Network Traffic Measurement and Analysis Conference (TMA). IEEE, 2025: 1-10. [Link](https://ieeexplore.ieee.org/abstract/document/11096999/) [Data](https://github.com/clarkzjw/tma25-oneweb)
 * Li D, Zhao J, Pan J. <b>FTRL-WRR: Learning-Based Two-Path Scheduler for LEO Networks[C]</b>//2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC). IEEE, 2025: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10976084/) [Code](https://github.com/Peter-LiDP/FTRL-WRR)
 * Liu B, Zhang Q, Yang Q, et al. <b>The Starlink Robot: A Platform and Dataset for Mobile Satellite Communication[J]</b>. arXiv preprint arXiv:2506.19781, 2025. [Link](https://arxiv.org/abs/2506.19781) [Data](https://github.com/StarlinkRobot)
 * Zhang Y, Zang B, Li L, et al. <b>Addressing Spoofing and Unauthorized Access: DL-Based Satellite Physical-Layer Authentication[C]</b>//2025 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2025: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10978520/) [Code](https://github.com/yiwawa/RML24-Cognitive-Radio-for-Satellite)
