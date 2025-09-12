@@ -71,6 +71,8 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * [6GSPACELab - University of Luxembourg](https://6gspacelab.uni.lu/)
 
 # 2025
+[1] Zanotto E, Maccari L. <b>Simulating Urban Satellite-Based Vehicular Networks: Focus on Maps, Building Heights, or Vehicle Density?[C]</b>//2025 20th Wireless On-Demand Network Systems and Services Conference (WONS). IEEE, 2025: 1-8. [Link](https://ieeexplore.ieee.org/abstract/document/10926044/) [Code](https://github.com/UniVe-NeDS-Lab/space_veins/tree/space_veins_3d)
+[2] Pusztai T, Hisberger J, Marcelino C, et al. <b>Stardust: A Scalable and Extensible Simulator for the 3D Continuum[C]</b>. 2025 IEEE International Conference on Edge Computing and Communications (EDGE). [Link](https://ieeexplore.ieee.org/document/11120470/) [Code](https://github.com/polaris-slo-cloud/stardust) [Code (Zenodo)](https://doi.org/10.5281/zenodo.15484629)
 * Zhao J, Perrin O, Ahangarpour A, et al. <b>Measuring the OneWeb Satellite Network[C]</b>//2025 9th Network Traffic Measurement and Analysis Conference (TMA). IEEE, 2025: 1-10. [Link](https://ieeexplore.ieee.org/abstract/document/11096999/) [Data](https://github.com/clarkzjw/tma25-oneweb)
 * Li D, Zhao J, Pan J. <b>FTRL-WRR: Learning-Based Two-Path Scheduler for LEO Networks[C]</b>//2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC). IEEE, 2025: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10976084/) [Code](https://github.com/Peter-LiDP/FTRL-WRR)
 * Liu B, Zhang Q, Yang Q, et al. <b>The Starlink Robot: A Platform and Dataset for Mobile Satellite Communication[J]</b>. arXiv preprint arXiv:2506.19781, 2025. [Link](https://arxiv.org/abs/2506.19781) [Data](https://github.com/StarlinkRobot)
