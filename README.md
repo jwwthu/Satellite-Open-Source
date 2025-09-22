@@ -71,6 +71,8 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * [6GSPACELab - University of Luxembourg](https://6gspacelab.uni.lu/)
 
 # 2025
+* Zhu J, Shi Y, Zhou Y, et al. <b>Hierarchical learning and computing over space-ground integrated networks[J]</b>. IEEE Transactions on Mobile Computing, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11003406/) [Code](https://github.com/Jingyang-Zhu/HierLC)
+* Shen L, Cui W, Lu Y, et al. <b>Satellite Payload Non-Cooperative Tactical Communication Signal Monitoring: Dataset and IoT Edge Computing Method[J]</b>. IEEE Internet of Things Journal, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11053967/) [Code](https://github.com/S2Looking/SC2SM)
 * Wen J, Zhao J, Zhu Z, et al. <b>SateLight: A Satellite Application Update Framework for Satellite Computing[C]</b>. ASE, 2025. [Link](https://arxiv.org/abs/2509.12809) [Code](https://github.com/WenJinfeng/SateLight)
 * Zanotto E, Maccari L. <b>Simulating Urban Satellite-Based Vehicular Networks: Focus on Maps, Building Heights, or Vehicle Density?[C]</b>//2025 20th Wireless On-Demand Network Systems and Services Conference (WONS). IEEE, 2025: 1-8. [Link](https://ieeexplore.ieee.org/abstract/document/10926044/) [Code](https://github.com/UniVe-NeDS-Lab/space_veins/tree/space_veins_3d)
 * Pusztai T, Hisberger J, Marcelino C, et al. <b>Stardust: A Scalable and Extensible Simulator for the 3D Continuum[C]</b>. 2025 IEEE International Conference on Edge Computing and Communications (EDGE). [Link](https://ieeexplore.ieee.org/document/11120470/) [Code](https://github.com/polaris-slo-cloud/stardust) [Code (Zenodo)](https://doi.org/10.5281/zenodo.15484629)
