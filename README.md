@@ -71,6 +71,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 * [6GSPACELab - University of Luxembourg](https://6gspacelab.uni.lu/)
 
 # 2025
+* Yang Z, Cen S, Zhu Y. <b>How Resilient are They? Robustness Analysis of LEO Satellite Routing[C]</b>//2025 IEEE/ACM 33rd International Symposium on Quality of Service (IWQoS). IEEE, 2025: 1-10. [Link](https://ieeexplore.ieee.org/abstract/document/11143286/) [Code](https://github.com/zpatronus/Robustness-Analysis-of-LEO-Satellite-Routing)
 * Zhu J, Shi Y, Zhou Y, et al. <b>Hierarchical learning and computing over space-ground integrated networks[J]</b>. IEEE Transactions on Mobile Computing, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11003406/) [Code](https://github.com/Jingyang-Zhu/HierLC)
 * Shen L, Cui W, Lu Y, et al. <b>Satellite Payload Non-Cooperative Tactical Communication Signal Monitoring: Dataset and IoT Edge Computing Method[J]</b>. IEEE Internet of Things Journal, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11053967/) [Code](https://github.com/S2Looking/SC2SM)
 * Wen J, Zhao J, Zhu Z, et al. <b>SateLight: A Satellite Application Update Framework for Satellite Computing[C]</b>. ASE, 2025. [Link](https://arxiv.org/abs/2509.12809) [Code](https://github.com/WenJinfeng/SateLight)
