@@ -69,8 +69,13 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + a crowdsourced measurement platform based on the Ookla speed test.
     + [https://github.com/Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus)
 * [6GSPACELab - University of Luxembourg](https://6gspacelab.uni.lu/)
+* [Ye Li-Nantong University](https://github.com/yeliqseu)
+* [Jianping Pan, University of Victoria](https://onlineacademiccommunity.uvic.ca/starlink/)
+* [IETF-Satellite-Networks](https://github.com/IETF-Satellite-Networks)
+
 
 # 2025
+* Chen J, Li Y, Chai H, et al. <b>Minimum Round‐Trip Time Prediction for Low Earth Orbit Satellite Networks[J]</b>. International Journal of Satellite Communications and Networking, 2025. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sat.1557) [Code](https://github.com/yeliqseu/minrtt-prediction)
 * Gao Y, Huang Q, Wang K, et al. Intelligent Hierarchical Routing Strategy Based on Regional Division for Large-Scale LEO Satellite Constellations[C]//2025 IEEE/CIC International Conference on Communications in China (ICCC Workshops). IEEE, 2025: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/11148142/) [Code](https://github.com/succulents9/routing)
 * Zamacola S M, Valero F L, Rodríguez-Osorio R M. <b>Hybrid MOEA with problem-specific operators for beam-hopping based resource allocation in multi-beam LEO satellites[J]</b>. Swarm and Evolutionary Computation, 2025, 99: 102174. [Link](https://www.sciencedirect.com/science/article/pii/S2210650225003311) [Code](https://github.com/samuelmartinezupm/NSGA-II-based-Satellite-Beam-Hopping-BH-Algorithm)
 * Zamacola S M, Rodríguez-Osorio R M, Salas-Natera M A. <b>Joint satellite platform and constellation sizing for instantaneous beam-hopping in 5G/6G Non-Terrestrial Networks[J]</b>. Computer Networks, 2025, 257: 110942. [Link](https://www.sciencedirect.com/science/article/pii/S1389128624007746) [Code](https://github.com/samuelmartinezupm/Demand-based-Satellite-Beam-Hopping-BH-Algorithm)
