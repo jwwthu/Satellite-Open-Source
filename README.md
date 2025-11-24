@@ -2,7 +2,7 @@
 This is the repository for the collection of open source code and data for satellite communication.
 
 If you find this repository helpful, you may consider cite our relevant work:
-* Jiang W, Liu A, Zhang Y, et al. Toward Global Metaverse Accessibility with RSMA-based Satellite-Terrestrial Integrated Networks: A Game Theoretic Approach[J]. IEEE Transactions on Consumer Electronics, 2025. [Link](https://ieeexplore.ieee.org/document/11073139/)
+* Jiang W, Liu A, Zhang Y, et al. <b>Toward Global Metaverse Accessibility with RSMA-based Satellite-Terrestrial Integrated Networks: A Game Theoretic Approach[J]</b>. IEEE Transactions on Consumer Electronics, 2025. [Link](https://ieeexplore.ieee.org/document/11073139/)
 * Li Y, Zhu S, Xiong T, et al. <b>Computation Offloading in Delay-Sensitive Multi-Satellite Cooperative Edge Computing Systems[J]</b>. IEEE Internet of Things Journal, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11045088/)
 * Jiang W, Zhang Y, Han H, et al. <b>Quantum Communication in Self-Organizing Satellite Networks: Challenges and Opportunities[J]</b>. IEEE Communications Standards Magazine, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11029273/)
 * Zhang Y, Jiang W, Wan P, et al. <b>Building an Efficient Satellite Network Routing Scheme: Challenges and Opportunities[J]</b>. IEEE Communications Standards Magazine, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11000293/)
