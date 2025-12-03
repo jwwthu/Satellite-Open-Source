@@ -77,6 +77,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 
 
 # 2025
+* Maldonado D, Kaneko M, Fraire J A, et al. <b>Enhancing LR-FHSS scalability through advanced sequence design and demodulator allocation[J]</b>. IEEE Transactions on Green Communications and Networking, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11004492/) [Code](https://github.com/diegomm6/lr-fhss_seq-families)
 * Garcia J, Sundberg S, Brunstrom A. <b>A Detailed Characterization of Starlink One-way Delay[C]</b>//Proceedings of the 2025 3rd Workshop on LEO Networking and Communication. 2025: 43-49. [Link](https://dl.acm.org/doi/abs/10.1145/3748749.3749090) [Data](https://zenodo.org/records/16275284)
 * Wang Y, Hou Y, Lai Z, et al. <b>How LLM Saved Me from Struggling with Experiment Reproduction: LEO Networking as A Case Study[C]</b>//Proceedings of the 2025 3rd Workshop on LEO Networking and Communication. 2025: 1-7. [Link](https://dl.acm.org/doi/abs/10.1145/3748749.3749084) [Code](https://github.com/SpaceNetLab/Laser)
 * Denizer B, Dohse N, Landsiedel O. <b>FjordLink: Comparison of Starlink and 5G Networks for Teleoperated Vessel Control[C]</b>//Proceedings of the 2025 3rd Workshop on LEO Networking and Communication. 2025: 8-14. [Link](https://dl.acm.org/doi/abs/10.1145/3748749.3749085) [Data](https://github.com/ds-kiel/FjordLink)
