@@ -77,6 +77,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 
 
 # 2025
+* Piemonti A, Campana R, Cianchini V, et al. <b>A Novel Framework for Proactive Cnf Orchestration in 6G Ntn[C]</b>//2025 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit). IEEE, 2025: 49-54. [Link](https://ieeexplore.ieee.org/abstract/document/11037205/) [Code](https://github.com/martel-innovate/6G-NTN-resource-forecasting)
 * Seon J, Lee S, Kim S H, et al. <b>Doppler-Adaptive Digital Semantic Communication for Low Earth Orbit Satellite Systems[J]</b>. IEEE Internet of Things Journal, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11180041/) [Code](https://github.com/dimlight13/LEO-SC-SatCom)
 * Lai Z, Li Z, Wu Q, et al. <b>Leocc: Making internet congestion control robust to leo satellite dynamics[C]</b>//Proceedings of the ACM SIGCOMM 2025 Conference. 2025: 129-146. [Link](https://dl.acm.org/doi/abs/10.1145/3718958.3750491) [Code](https://github.com/SpaceNetLab/LeoCC)
 * Li Y, Chen Y, Yang J, et al. <b>Small-scale LEO Satellite Networking for Global-scale Demands[C]</b>//Proceedings of the ACM SIGCOMM 2025 Conference. 2025: 917-931. [Link](https://dl.acm.org/doi/abs/10.1145/3718958.3750525) [Code](https://tinyleo-toolkit.github.io/TinyLEO/)
