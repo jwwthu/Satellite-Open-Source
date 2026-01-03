@@ -71,10 +71,13 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
     + a crowdsourced measurement platform based on the Ookla speed test.
     + [https://github.com/Tysonpower/starlinkstatus](https://github.com/Tysonpower/starlinkstatus)
 * [6GSPACELab - University of Luxembourg](https://6gspacelab.uni.lu/)
-* [Ye Li-Nantong University](https://github.com/yeliqseu)
-* [Jianping Pan, University of Victoria](https://onlineacademiccommunity.uvic.ca/starlink/)
 * [IETF-Satellite-Networks](https://github.com/IETF-Satellite-Networks)
 
+### Relevant Rsearchers
+They provide many open-source works, thanks!
+* [Ye Li-Nantong University](https://github.com/yeliqseu)
+* [Jianping Pan, University of Victoria](https://onlineacademiccommunity.uvic.ca/starlink/)
+* [Muhammad Asad Ullah](https://github.com/MuhammadAsadUllah1)
 
 # 2025
 * Piemonti A, Campana R, Cianchini V, et al. <b>A Novel Framework for Proactive Cnf Orchestration in 6G Ntn[C]</b>//2025 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit). IEEE, 2025: 49-54. [Link](https://ieeexplore.ieee.org/abstract/document/11037205/) [Code](https://github.com/martel-innovate/6G-NTN-resource-forecasting)
