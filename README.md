@@ -81,7 +81,8 @@ They provide many open-source works, thanks!
 
 # 2026
 * Wu H, Duan J, Liu X, et al. <b>AGCPM: An Inter-Satellite Link Routing Scheme for Large-Scale LEO Satellites[J]</b>. Computer Networks, 2025: 111958. [Link](https://www.sciencedirect.com/science/article/pii/S1389128625009235) [Code](https://github.com/heymanuuu/repository3/tree/main)
-* 
+* Milla C R, Patrone F, Fraire J A, et al. <b>From Emerging LEO Satellite Constellations to the Space Cloud: Emulation Platforms and Orchestration Methods[J]</b>. Computer Networks, 2026: 111970. [Link](https://www.sciencedirect.com/science/article/pii/S1389128625009351) [Code](https://gitlab.com/camilo.rojas/meteornet)
+
 # 2025
 * Piemonti A, Campana R, Cianchini V, et al. <b>A Novel Framework for Proactive Cnf Orchestration in 6G Ntn[C]</b>//2025 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit). IEEE, 2025: 49-54. [Link](https://ieeexplore.ieee.org/abstract/document/11037205/) [Code](https://github.com/martel-innovate/6G-NTN-resource-forecasting)
 * Seon J, Lee S, Kim S H, et al. <b>Doppler-Adaptive Digital Semantic Communication for Low Earth Orbit Satellite Systems[J]</b>. IEEE Internet of Things Journal, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11180041/) [Code](https://github.com/dimlight13/LEO-SC-SatCom)
