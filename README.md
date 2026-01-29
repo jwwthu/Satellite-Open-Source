@@ -55,6 +55,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 + [ION-DTN](https://github.com/nasa-jpl/ION-DTN)
 + [awesome-satellite-network](https://github.com/liuwei-network/awesome-satellite-network)
 + [Non-GEO Constellations Analysis Toolkit 6.0 (NCAT)](https://ncat.site/index.html)
++ [gr-iridium](https://github.com/muccc/gr-iridium)
 
 ### Course
 * [卫星通信载荷波束形成与抗干扰虚拟仿真实验](https://mool.njust.edu.cn/exp/224.html)
