@@ -81,6 +81,7 @@ They provide many open-source works, thanks!
 * [Muhammad Asad Ullah](https://github.com/MuhammadAsadUllah1)
 
 # 2026
+* T. Wang et al., <b>Packet Loss Modeling and Forward Erasure Correction for LEO Satellite Networks</b>, in IEEE Transactions on Communications, 2026. [Link](https://ieeexplore.ieee.org/document/11367095) [Code](https://github.com/yeliqseu/leo-ml-loss-models)
 * Demirci Y, Mantelet G, Martel S, et al. <b>Burst Aware Forecasting of User Traffic Demand in LEO Satellite Networks[C]</b>. ICC, 2026. [Link](https://arxiv.org/abs/2601.14233) [Code](https://github.com/YektaDemirci/burstAwareForecasting)
 * Wu H, Duan J, Liu X, et al. <b>AGCPM: An Inter-Satellite Link Routing Scheme for Large-Scale LEO Satellites[J]</b>. Computer Networks, 2025: 111958. [Link](https://www.sciencedirect.com/science/article/pii/S1389128625009235) [Code](https://github.com/heymanuuu/repository3/tree/main)
 * Milla C R, Patrone F, Fraire J A, et al. <b>From Emerging LEO Satellite Constellations to the Space Cloud: Emulation Platforms and Orchestration Methods[J]</b>. Computer Networks, 2026: 111970. [Link](https://www.sciencedirect.com/science/article/pii/S1389128625009351) [Code](https://gitlab.com/camilo.rojas/meteornet)
