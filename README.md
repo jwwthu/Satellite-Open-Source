@@ -229,6 +229,7 @@ They provide many open-source works, thanks!
   + Iridium burst detector and demodulator [Github Link](https://github.com/muccc/gr-iridium)
   + A set of tools to parse Iridium frames [Github Link](https://github.com/muccc/iridium-toolkit)
 * Fratty R, Saar Y, Kumar R, et al. <b>Random Routing Algorithm for Enhancing the Cybersecurity of LEO Satellite Networks[J]</b>. Electronics, 2023, 12(3): 518. [Link](https://www.mdpi.com/2082280) [Code](https://github.com/RubenFr/icarus-framework)
+* Rigo C A, Morsch Filho E, Seman L O, et al. <b>Instance and data generation for the offline nanosatellite task scheduling problem[J]</b>. Data, 2023, 8(3): 62. [Link](https://www.mdpi.com/2306-5729/8/3/62) [Data](https://github.com/c-a-rigo/ONTS-data)
 
 # 2022
 * Kon P T J, Barradas D, Chen A. <b>Stargaze: a Leo constellation emulator for security experimentation[C]</b>//Proceedings of the 4th Workshop on CPS & IoT Security and Privacy. 2022: 47-53. [Link](https://dl.acm.org/doi/abs/10.1145/3560826.3563382) [Code](https://github.com/patrickkon/Stargaze)
