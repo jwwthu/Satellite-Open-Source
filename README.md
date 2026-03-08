@@ -81,6 +81,7 @@ They provide many open-source works, thanks!
 * [Muhammad Asad Ullah](https://github.com/MuhammadAsadUllah1)
 
 # 2026
+* Zhao L, Niu D, Xu Q, et al. <b>A Novel Antenna Tracking Method for LEO Satellites using Bstar Coefficient Dynamic Calibration[J]</b>. IEEE Internet of Things Journal, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11355483/) [Code](https://github.com/miemie-323/SBBP-orbit-code)
 * Cao H, Meng R, Xu X, et al. <b>Importance-aware robust semantic transmission for leo satellite-ground communication[J]</b>. IEEE Internet of Things Journal, 2026. [Link](https://ieeexplore.ieee.org/document/11303176) [Code](https://github.com/lightwindy-ch/IRST.git)
 * Kashiwagi K, Tsukamoto K. <b>Orbit Aware-Based Satellite Selection Method for Reducing Handover Frequency in LEO Satellite Networks[J]</b>. IEEE Access, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11363135/) [Code](https://github.com/kei-wagi/OB-Aware-Method)
 * T. Wang et al., <b>Packet Loss Modeling and Forward Erasure Correction for LEO Satellite Networks</b>, in IEEE Transactions on Communications, 2026. [Link](https://ieeexplore.ieee.org/document/11367095) [Code](https://github.com/yeliqseu/leo-ml-loss-models)
