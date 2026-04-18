@@ -81,6 +81,7 @@ They provide many open-source works, thanks!
 * [Muhammad Asad Ullah](https://github.com/MuhammadAsadUllah1)
 
 # 2026
+* Schröder A, Gracla S, Bockelmann C, et al. <b>Model-Free Robust Beamforming in Satellite Downlink Using Reinforcement Learning[J]</b>. IEEE Open Journal of the Communications Society, 2025, 6: 10582-10598. [Link](https://ieeexplore.ieee.org/abstract/document/11300830/) [Code](https://github.com/Steffengra/2307_learning_beamforming_journal_code/tree/master)
 * Li Y, Ba B, Cui W, et al. <b>An Efficient Acquisition Algorithm for Burst DSSS Signals in LEO Satellite Systems[J]</b>. IEEE Internet of Things Journal, 2026. [Link](https://ieeexplore.ieee.org/document/11359693) [Code](https://github.com/LeoFly-1/AFMC)
 * Bujari A, Luglio M, Palazzi C E, et al. <b>Multimedia over Satellite with QUIC-Wave: An Experimental Evaluation of Performance[C]</b>//2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC). IEEE, 2026: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/11366529/) [Code](https://github.com/DomenicoVerde/CCNC-QUICoS-Results)
 * Ohmori M, Ogawa K, Kashiwazaki H, et al. <b>Comparison of Congestion Controls for LEO Satellite Communications in the Wild[C]</b>//2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC). IEEE, 2026: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/11366302/) [Code](https://github.com/ohmori7/tcp-leo/releases/tag/CCNC_2026)
