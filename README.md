@@ -87,6 +87,7 @@ They provide many open-source works, thanks!
 * [Muhammad Asad Ullah](https://github.com/MuhammadAsadUllah1)
 
 # 2026
+* Lu J, Wang P, Wang S. <b>Service Composition for Satellite Computing[J]</b>. IEEE Transactions on Services Computing, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11442629/) [Code](https://github.com/CMARModel/CMARModel)
 * Muñoz-Gea J P, Malgosa-Sanahuja J, Manzanares-Lopez P. <b>Emulating large LEO satellite networks with eBPF[J]</b>. Computer Networks, 2026: 112383. [Link](https://www.sciencedirect.com/science/article/pii/S1389128626003956) [Code](https://github.com/leonetlab-upct/bleo)
 * Liao Y, Cheng K, Lu F, et al. <b>Towards Routing and Edge Computing in Satellite-Terrestrial Networks: A Column Generation Approach[J]</b>. IEEE Transactions on Vehicular Technology, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11230241/) [Code](https://github.com/Yuanliaoo/CG_satellite)
 * Hong G H, Lee Y, Lee C, et al. <b>Experimental evaluation of PQ-WireGuard and PQ-IPsec over LEO satellite networks[J]</b>. ICT Express, 2026. [Link](https://www.sciencedirect.com/science/article/pii/S2405959526000457) [Code](https://github.com/GHH33/pqWG-vs-IPsec-over-satellite-links)
