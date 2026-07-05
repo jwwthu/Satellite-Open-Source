@@ -87,6 +87,7 @@ They provide many open-source works, thanks!
 * [Muhammad Asad Ullah](https://github.com/MuhammadAsadUllah1)
 
 # 2026
+* Cheng X, Liu L, Wang Y, et al. <b>A Prediction Method for LEO Satellite Channels under Channel Aging[J]</b>. IEEE Access, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11422856/) [Code](https://github.com/EV4-CX/LEO)
 * De Sombre W, Tomová M, Galinski M, et al. <b>Deep Sleep Scheduling for Satellite IoT via Simulation-Based Optimization[J]</b>. IEEE Internet of Things Journal, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11493458/) [Code](https://github.com/wanjads/SatelliteIoTRL)
 * Lu J, Wang P, Wang S. <b>Service Composition for Satellite Computing[J]</b>. IEEE Transactions on Services Computing, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11442629/) [Code](https://github.com/CMARModel/CMARModel)
 * Muñoz-Gea J P, Malgosa-Sanahuja J, Manzanares-Lopez P. <b>Emulating large LEO satellite networks with eBPF[J]</b>. Computer Networks, 2026: 112383. [Link](https://www.sciencedirect.com/science/article/pii/S1389128626003956) [Code](https://github.com/leonetlab-upct/bleo)
