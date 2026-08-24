@@ -62,6 +62,9 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 + [awesome-satellite-network](https://github.com/liuwei-network/awesome-satellite-network)
 + [Non-GEO Constellations Analysis Toolkit 6.0 (NCAT)](https://ncat.site/index.html)
 + [gr-iridium](https://github.com/muccc/gr-iridium)
++ [Qorelyn Labs NTN Lab](https://www.qorelyn.com/tools/ntn/)
++ [Open-Source 5G NR Non-Terrestrial Network (NTN) Testbed](https://github.com/sabbir-uoulu/open-source-5g-ntn)
++ [Open-Source 5G NR NTN Testbed (LEO)](https://github.com/sabbir-uoulu/open-source-5g-ntn-leo)
 
 ### Course
 * [卫星通信载荷波束形成与抗干扰虚拟仿真实验](https://mool.njust.edu.cn/exp/224.html)
