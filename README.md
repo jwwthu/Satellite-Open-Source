@@ -65,6 +65,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 + [Qorelyn Labs NTN Lab](https://www.qorelyn.com/tools/ntn/)
 + [Open-Source 5G NR Non-Terrestrial Network (NTN) Testbed](https://github.com/sabbir-uoulu/open-source-5g-ntn)
 + [Open-Source 5G NR NTN Testbed (LEO)](https://github.com/sabbir-uoulu/open-source-5g-ntn-leo)
++ [Satellite Constellation Configuration Design Optimization](https://www.mathworks.com/matlabcentral/fileexchange/184557-satellite-constellation-configuration-design-optimization)
 
 ### Course
 * [卫星通信载荷波束形成与抗干扰虚拟仿真实验](https://mool.njust.edu.cn/exp/224.html)
