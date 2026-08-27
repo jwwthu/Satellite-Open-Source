@@ -66,6 +66,7 @@ Often used in satellite communication papers. [Link](https://beta.sedac.ciesin.c
 + [Open-Source 5G NR Non-Terrestrial Network (NTN) Testbed](https://github.com/sabbir-uoulu/open-source-5g-ntn)
 + [Open-Source 5G NR NTN Testbed (LEO)](https://github.com/sabbir-uoulu/open-source-5g-ntn-leo)
 + [Satellite Constellation Configuration Design Optimization](https://www.mathworks.com/matlabcentral/fileexchange/184557-satellite-constellation-configuration-design-optimization)
++ [space_Veins: A simulation framework developed to study satellite supported vehicular networks](https://sat.car2x.org/)
 
 ### Course
 * [卫星通信载荷波束形成与抗干扰虚拟仿真实验](https://mool.njust.edu.cn/exp/224.html)
@@ -91,6 +92,7 @@ They provide many open-source works, thanks!
 * [Muhammad Asad Ullah](https://github.com/MuhammadAsadUllah1)
 
 # 2026
+* Maccari L. <b>From the Sky to the Canyons: Estimating the Visibility of LEO Satellites in Urban Environments[C]</b>//2026 IEEE Vehicular Networking Conference (VNC). IEEE, 2026: 1-8. [Link](https://ieeexplore.ieee.org/abstract/document/11629131/) [Code](https://github.com/swdevel-lab-hfarm/LEO-visibility-model)
 * Cheng X, Liu L, Wang Y, et al. <b>A Prediction Method for LEO Satellite Channels under Channel Aging[J]</b>. IEEE Access, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11422856/) [Code](https://github.com/EV4-CX/LEO)
 * De Sombre W, Tomová M, Galinski M, et al. <b>Deep Sleep Scheduling for Satellite IoT via Simulation-Based Optimization[J]</b>. IEEE Internet of Things Journal, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11493458/) [Code](https://github.com/wanjads/SatelliteIoTRL)
 * Lu J, Wang P, Wang S. <b>Service Composition for Satellite Computing[J]</b>. IEEE Transactions on Services Computing, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11442629/) [Code](https://github.com/CMARModel/CMARModel)
