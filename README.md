@@ -92,6 +92,7 @@ They provide many open-source works, thanks!
 * [Muhammad Asad Ullah](https://github.com/MuhammadAsadUllah1)
 
 # 2026
+* Sun T, Liu S, Xu M, et al. OrbitBFT: Enabling Scalable and Robust BFT Consensus in LEO Constellations[C]. 2026 IEEE 46th International Conference on Distributed Computing Systems (ICDCS), 2026. [Link](https://ieeexplore.ieee.org/document/11619069/) [Code](https://github.com/BDS-SDU/WirelessConsensus-Satellite)
 * Maccari L. <b>From the Sky to the Canyons: Estimating the Visibility of LEO Satellites in Urban Environments[C]</b>//2026 IEEE Vehicular Networking Conference (VNC). IEEE, 2026: 1-8. [Link](https://ieeexplore.ieee.org/abstract/document/11629131/) [Code](https://github.com/swdevel-lab-hfarm/LEO-visibility-model)
 * Cheng X, Liu L, Wang Y, et al. <b>A Prediction Method for LEO Satellite Channels under Channel Aging[J]</b>. IEEE Access, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11422856/) [Code](https://github.com/EV4-CX/LEO)
 * De Sombre W, Tomová M, Galinski M, et al. <b>Deep Sleep Scheduling for Satellite IoT via Simulation-Based Optimization[J]</b>. IEEE Internet of Things Journal, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11493458/) [Code](https://github.com/wanjads/SatelliteIoTRL)
