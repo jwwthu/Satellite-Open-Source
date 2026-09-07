@@ -92,6 +92,7 @@ They provide many open-source works, thanks!
 * [Muhammad Asad Ullah](https://github.com/MuhammadAsadUllah1)
 
 # 2026
+* Ottens M, Hielscher K S, German R. <b>TheaterQ: A Qdisc for Emulation of Dynamic Satellite Networks[C]</b>//2026 IEEE 12th International Conference on Network Softwarization (NetSoft). IEEE, 2026: 549-555. [Link](https://ieeexplore.ieee.org/abstract/document/11603418/) [Code](https://github.com/cs7org/TheaterQ)
 * Deng Z, Wang Z, Wang L, et al. <b>SatProxy: Accelerating Web Browsing in LEO Satellite Networks via Loss-hiding[J]</b>. IEEE Transactions on Mobile Computing, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11520183/) [Code](https://github.com/DENGZEYI/SatProxy)
 * Sun T, Liu S, Xu M, et al. <b>OrbitBFT: Enabling Scalable and Robust BFT Consensus in LEO Constellations[C]</b>. 2026 IEEE 46th International Conference on Distributed Computing Systems (ICDCS), 2026. [Link](https://ieeexplore.ieee.org/document/11619069/) [Code](https://github.com/BDS-SDU/WirelessConsensus-Satellite)
 * Maccari L. <b>From the Sky to the Canyons: Estimating the Visibility of LEO Satellites in Urban Environments[C]</b>//2026 IEEE Vehicular Networking Conference (VNC). IEEE, 2026: 1-8. [Link](https://ieeexplore.ieee.org/abstract/document/11629131/) [Code](https://github.com/swdevel-lab-hfarm/LEO-visibility-model)
