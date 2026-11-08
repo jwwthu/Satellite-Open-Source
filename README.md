@@ -93,6 +93,7 @@ They provide many open-source works, thanks!
 * [Muhammad Asad Ullah](https://github.com/MuhammadAsadUllah1)
 
 # 2026
+* Uzair M, Aldahlan B G, Albar A A, et al. <b>ns3-ntn-toolkit: An Integrated ns-3 Platform for 6G Non-Terrestrial Networks[J]</b>. IEEE Open Journal of the Communications Society, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11741265/) [Code1](https://github.com/Muhammaduazir69/ns3-ntn-toolkit) [Code2](https://doi.org/10.6084/m9.figshare.32927594)
 * Liu D, Jian L, Ma J, et al. <b>Asynchronous Multi-Agent Reinforcement Learning Aided Packet-Routing for Space-Air-Ground Integrated Networks[J]</b>. IEEE Transactions on Mobile Computing, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11664604/) [Code](https://github.com/Fluidy/AMG-Routing)
 * Li X, He D, Wei L, et al. <b>Cahake: Collaborator-assisted Handover and Authenticated Key Exchange Protocol with KCI Resistance for Space-Sea Integrated Networks[J]</b>. IEEE Internet of Things Journal, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11646593/) [Code](https://github.com/lixuru217/SSIN-Cahake)
 * Sun P, Liu Y, Zhang Y, et al. <b>Traffic-Aware Mobility Management Based on Decentralized Federated Deep Reinforcement Learning in Satellite-Terrestrial Vehicular Networks[J]</b>. IEEE Transactions on Mobile Computing, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11592071/) [Code](https://github.com/winner158/DF-DRL)
